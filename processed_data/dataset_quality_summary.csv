@@ -1,0 +1,4 @@
+Dataset,Total_Rows,Total_Columns,Total_Missing_Values,Exact_Duplicate_Rows,Duplicate_ID_Rows
+Groundwater,550850,14,0,0,0
+Rainfall,3577399,10,1992986,0,0
+APY,455359,16,5030,0,0

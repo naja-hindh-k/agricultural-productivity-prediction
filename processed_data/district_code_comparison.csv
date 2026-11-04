@@ -1,0 +1,755 @@
+state_code,district_code,state_names_gw,district_names_gw,state_names_rain,district_names_rain,state_names_apy,district_names_apy,in_groundwater,in_rainfall,in_apy,district_names_match
+1,1,['Jammu And Kashmir'],['Anantnag'],['Jammu And Kashmir'],['Anantnag'],['Jammu And Kashmir'],['Anantnag'],True,True,True,True
+1,2,,,,,['Jammu And Kashmir'],['Budgam'],False,False,True,
+1,3,,,,,['Jammu And Kashmir'],['Baramulla'],False,False,True,
+1,4,,,['Jammu And Kashmir'],['Doda'],['Jammu And Kashmir'],['Doda'],False,True,True,True
+1,5,['Jammu And Kashmir'],['Jammu'],['Jammu And Kashmir'],['Jammu'],['Jammu And Kashmir'],['Jammu'],True,True,True,True
+1,7,['Jammu And Kashmir'],['Kathua'],['Jammu And Kashmir'],['Kathua'],['Jammu And Kashmir'],['Kathua'],True,True,True,True
+1,8,,,,,['Jammu And Kashmir'],['Kupwara'],False,False,True,
+1,10,,,,,['Jammu And Kashmir'],['Poonch'],False,False,True,
+1,11,,,,,['Jammu And Kashmir'],['Pulwama'],False,False,True,
+1,12,['Jammu And Kashmir'],['Rajouri'],['Jammu And Kashmir'],['Rajouri'],['Jammu And Kashmir'],['Rajouri'],True,True,True,True
+1,13,,,,,['Jammu And Kashmir'],['Srinagar'],False,False,True,
+1,14,['Jammu And Kashmir'],['Udhampur'],['Jammu And Kashmir'],['Udhampur'],['Jammu And Kashmir'],['Udhampur'],True,True,True,True
+1,620,,,,,['Jammu And Kashmir'],['Kishtwar'],False,False,True,
+1,621,,,,,['Jammu And Kashmir'],['Ramban'],False,False,True,
+1,622,,,,,['Jammu And Kashmir'],['Kulgam'],False,False,True,
+1,623,,,,,['Jammu And Kashmir'],['Bandipora'],False,False,True,
+1,624,,,['Jammu And Kashmir'],['Samba'],['Jammu And Kashmir'],['Samba'],False,True,True,True
+1,625,,,,,['Jammu And Kashmir'],['Shopian'],False,False,True,
+1,626,,,,,['Jammu And Kashmir'],['Ganderbal'],False,False,True,
+1,627,['Jammu And Kashmir'],['Reasi'],,,['Jammu And Kashmir'],['Reasi'],True,False,True,True
+1,9999,,,['Jammu And Kashmir'],['J&K District 1'],,,False,True,False,
+2,15,,,['Himachal Pradesh'],['Bilaspur'],['Himachal Pradesh'],['Bilaspur'],False,True,True,True
+2,16,,,['Himachal Pradesh'],['Chamba'],['Himachal Pradesh'],['Chamba'],False,True,True,True
+2,17,['Himachal Pradesh'],['Hamirpur'],['Himachal Pradesh'],['Hamirpur'],['Himachal Pradesh'],['Hamirpur'],True,True,True,True
+2,18,['Himachal Pradesh'],['Kangra'],['Himachal Pradesh'],['Kangra'],['Himachal Pradesh'],['Kangra'],True,True,True,True
+2,19,,,['Himachal Pradesh'],['Kinnaur'],['Himachal Pradesh'],['Kinnaur'],False,True,True,True
+2,20,['Himachal Pradesh'],['Kullu'],['Himachal Pradesh'],['Kullu'],['Himachal Pradesh'],['Kullu'],True,True,True,True
+2,21,,,['Himachal Pradesh'],['Lahul And Spiti'],['Himachal Pradesh'],['Lahaul And Spiti'],False,True,True,False
+2,22,['Himachal Pradesh'],['Mandi'],['Himachal Pradesh'],['Mandi'],['Himachal Pradesh'],['Mandi'],True,True,True,True
+2,23,,,['Himachal Pradesh'],['Shimla'],['Himachal Pradesh'],['Shimla'],False,True,True,True
+2,24,['Himachal Pradesh'],['Sirmaur'],['Himachal Pradesh'],['Sirmaur'],['Himachal Pradesh'],['Sirmaur'],True,True,True,True
+2,25,['Himachal Pradesh'],['Solan'],['Himachal Pradesh'],['Solan'],['Himachal Pradesh'],['Solan'],True,True,True,True
+2,26,['Himachal Pradesh'],['Una'],['Himachal Pradesh'],['Una'],['Himachal Pradesh'],['Una'],True,True,True,True
+3,27,['Punjab'],['Amritsar'],['Punjab'],['Amritsar'],['Punjab'],['Amritsar'],True,True,True,True
+3,28,['Punjab'],['Bathinda'],['Punjab'],['Bathinda'],['Punjab'],['Bathinda'],True,True,True,True
+3,29,['Punjab'],['Faridkot'],['Punjab'],['Faridkot'],['Punjab'],['Faridkot'],True,True,True,True
+3,30,['Punjab'],['Fatehgarh Sahib'],['Punjab'],['Fatehgarh Sahib'],['Punjab'],['Fatehgarh Sahib'],True,True,True,True
+3,31,['Punjab'],['Ferozepur'],['Punjab'],['Ferozepur'],['Punjab'],['Ferozepur'],True,True,True,True
+3,32,['Punjab'],['Gurdaspur'],['Punjab'],['Gurdaspur'],['Punjab'],['Gurdaspur'],True,True,True,True
+3,33,['Punjab'],['Hoshiarpur'],['Punjab'],['Hoshiarpur'],['Punjab'],['Hoshiarpur'],True,True,True,True
+3,34,['Punjab'],['Jalandhar'],['Punjab'],['Jalandhar'],['Punjab'],['Jalandhar'],True,True,True,True
+3,35,['Punjab'],['Kapurthala'],['Punjab'],['Kapurthala'],['Punjab'],['Kapurthala'],True,True,True,True
+3,36,['Punjab'],['Ludhiana'],['Punjab'],['Ludhiana'],['Punjab'],['Ludhiana'],True,True,True,True
+3,37,['Punjab'],['Mansa'],['Punjab'],['Mansa'],['Punjab'],['Mansa'],True,True,True,True
+3,38,['Punjab'],['Moga'],['Punjab'],['Moga'],['Punjab'],['Moga'],True,True,True,True
+3,39,['Punjab'],['Sri Muktsar Sahib'],['Punjab'],['Sri Muktsar Sahib'],['Punjab'],['Sri Muktsar Sahib'],True,True,True,True
+3,40,['Punjab'],['Shahid Bhagat Singh Nagar'],['Punjab'],['Shahid Bhagat Singh Nagar'],['Punjab'],['Shahid Bhagat Singh Nagar'],True,True,True,True
+3,41,['Punjab'],['Patiala'],['Punjab'],['Patiala'],['Punjab'],['Patiala'],True,True,True,True
+3,42,['Punjab'],['Rupnagar'],['Punjab'],['Rupnagar'],['Punjab'],['Rupnagar'],True,True,True,True
+3,43,['Punjab'],['Sangrur'],['Punjab'],['Sangrur'],['Punjab'],['Sangrur'],True,True,True,True
+3,605,['Punjab'],['Barnala'],['Punjab'],['Barnala'],['Punjab'],['Barnala'],True,True,True,True
+3,608,['Punjab'],['S.A.S Nagar'],['Punjab'],['S.A.S Nagar'],['Punjab'],['S.A.S Nagar'],True,True,True,True
+3,609,['Punjab'],['Tarn Taran'],['Punjab'],['Tarn Taran'],['Punjab'],['Tarn Taran'],True,True,True,True
+3,651,,,,,['Punjab'],['Fazilka'],False,False,True,
+3,662,,,,,['Punjab'],['Pathankot'],False,False,True,
+3,737,,,,,['Punjab'],['Malerkotla'],False,False,True,
+4,44,['Chandigarh'],['Chandigarh'],['Chandigarh'],['Chandigarh'],['Chandigarh'],['Chandigarh'],True,True,True,True
+5,45,,,['Uttarakhand'],['Almora'],['Uttarakhand'],['Almora'],False,True,True,True
+5,46,,,['Uttarakhand'],['Bageshwar'],['Uttarakhand'],['Bageshwar'],False,True,True,True
+5,47,,,['Uttarakhand'],['Chamoli'],['Uttarakhand'],['Chamoli'],False,True,True,True
+5,48,['Uttarakhand'],['Champawat'],['Uttarakhand'],['Champawat'],['Uttarakhand'],['Champawat'],True,True,True,True
+5,49,['Uttarakhand'],['Dehradun'],['Uttarakhand'],['Dehradun'],['Uttarakhand'],['Dehradun'],True,True,True,True
+5,50,['Uttarakhand'],['Haridwar'],['Uttarakhand'],['Haridwar'],['Uttarakhand'],['Haridwar'],True,True,True,True
+5,51,['Uttarakhand'],['Nainital'],['Uttarakhand'],['Nainital'],['Uttarakhand'],['Nainital'],True,True,True,True
+5,52,,,['Uttarakhand'],['Pauri Garhwal'],['Uttarakhand'],['Pauri Garhwal'],False,True,True,True
+5,53,,,['Uttarakhand'],['Pithoragarh'],['Uttarakhand'],['Pithoragarh'],False,True,True,True
+5,54,,,['Uttarakhand'],['Rudra Prayag'],['Uttarakhand'],['Rudraprayag'],False,True,True,False
+5,55,,,['Uttarakhand'],['Tehri Garhwal'],['Uttarakhand'],['Tehri Garhwal'],False,True,True,True
+5,56,['Uttarakhand'],['Udam Singh Nagar'],['Uttarakhand'],['Udam Singh Nagar'],['Uttarakhand'],['Udham Singh Nagar'],True,True,True,False
+5,57,,,['Uttarakhand'],['Uttar Kashi'],['Uttarakhand'],['Uttarkashi'],False,True,True,False
+6,58,['Haryana'],['Ambala'],['Haryana'],['Ambala'],['Haryana'],['Ambala'],True,True,True,True
+6,59,['Haryana'],['Bhiwani'],['Haryana'],['Bhiwani'],['Haryana'],['Bhiwani'],True,True,True,True
+6,60,['Haryana'],['Faridabad'],['Haryana'],['Faridabad'],['Haryana'],['Faridabad'],True,True,True,True
+6,61,['Haryana'],['Fatehabad'],['Haryana'],['Fatehabad'],['Haryana'],['Fatehabad'],True,True,True,True
+6,62,['Haryana'],['Gurugram'],['Haryana'],['Gurugram'],['Haryana'],['Gurugram'],True,True,True,True
+6,63,['Haryana'],['Hisar'],['Haryana'],['Hisar'],['Haryana'],['Hisar'],True,True,True,True
+6,64,['Haryana'],['Jhajjar'],['Haryana'],['Jhajjar'],['Haryana'],['Jhajjar'],True,True,True,True
+6,65,['Haryana'],['Jind'],['Haryana'],['Jind'],['Haryana'],['Jind'],True,True,True,True
+6,66,['Haryana'],['Kaithal'],['Haryana'],['Kaithal'],['Haryana'],['Kaithal'],True,True,True,True
+6,67,['Haryana'],['Karnal'],['Haryana'],['Karnal'],['Haryana'],['Karnal'],True,True,True,True
+6,68,['Haryana'],['Kurukshetra'],['Haryana'],['Kurukshetra'],['Haryana'],['Kurukshetra'],True,True,True,True
+6,69,['Haryana'],['Mahendragarh'],['Haryana'],['Mahendragarh'],['Haryana'],['Mahendragarh'],True,True,True,True
+6,70,['Haryana'],['Panchkula'],['Haryana'],['Panchkula'],['Haryana'],['Panchkula'],True,True,True,True
+6,71,['Haryana'],['Panipat'],['Haryana'],['Panipat'],['Haryana'],['Panipat'],True,True,True,True
+6,72,['Haryana'],['Rewari'],['Haryana'],['Rewari'],['Haryana'],['Rewari'],True,True,True,True
+6,73,['Haryana'],['Rohtak'],['Haryana'],['Rohtak'],['Haryana'],['Rohtak'],True,True,True,True
+6,74,['Haryana'],['Sirsa'],['Haryana'],['Sirsa'],['Haryana'],['Sirsa'],True,True,True,True
+6,75,['Haryana'],['Sonipat'],['Haryana'],['Sonipat'],['Haryana'],['Sonipat'],True,True,True,True
+6,76,['Haryana'],['Yamunanagar'],['Haryana'],['Yamunanagar'],['Haryana'],['Yamunanagar'],True,True,True,True
+6,604,['Haryana'],['Nuh'],['Haryana'],['Nuh'],['Haryana'],['Nuh'],True,True,True,True
+6,619,['Haryana'],['Palwal'],['Haryana'],['Palwal'],['Haryana'],['Palwal'],True,True,True,True
+6,701,,,,,['Haryana'],['Charkhi Dadri'],False,False,True,
+7,77,['Delhi'],['Central'],['Delhi'],['Central'],,,True,True,False,True
+7,78,['Delhi'],['East'],['Delhi'],['East'],,,True,True,False,True
+7,79,['Delhi'],['New Delhi'],['Delhi'],['New Delhi'],,,True,True,False,True
+7,80,['Delhi'],['North'],['Delhi'],['North'],,,True,True,False,True
+7,81,['Delhi'],['North East'],['Delhi'],['North East'],,,True,True,False,True
+7,82,['Delhi'],['North West'],['Delhi'],['North West'],,,True,True,False,True
+7,83,['Delhi'],['South'],['Delhi'],['South'],,,True,True,False,True
+7,84,['Delhi'],['South West'],['Delhi'],['South West'],,,True,True,False,True
+7,85,['Delhi'],['West'],['Delhi'],['West'],,,True,True,False,True
+8,86,['Rajasthan'],['Ajmer'],['Rajasthan'],['Ajmer'],['Rajasthan'],['Ajmer'],True,True,True,True
+8,87,['Rajasthan'],['Alwar'],['Rajasthan'],['Alwar'],['Rajasthan'],['Alwar'],True,True,True,True
+8,88,['Rajasthan'],['Banswara'],['Rajasthan'],['Banswara'],['Rajasthan'],['Banswara'],True,True,True,True
+8,89,['Rajasthan'],['Baran'],['Rajasthan'],['Baran'],['Rajasthan'],['Baran'],True,True,True,True
+8,90,['Rajasthan'],['Barmer'],['Rajasthan'],['Barmer'],['Rajasthan'],['Barmer'],True,True,True,True
+8,91,['Rajasthan'],['Bharatpur'],['Rajasthan'],['Bharatpur'],['Rajasthan'],['Bharatpur'],True,True,True,True
+8,92,['Rajasthan'],['Bhilwara'],['Rajasthan'],['Bhilwara'],['Rajasthan'],['Bhilwara'],True,True,True,True
+8,93,['Rajasthan'],['Bikaner'],['Rajasthan'],['Bikaner'],['Rajasthan'],['Bikaner'],True,True,True,True
+8,94,['Rajasthan'],['Bundi'],['Rajasthan'],['Bundi'],['Rajasthan'],['Bundi'],True,True,True,True
+8,95,['Rajasthan'],['Chittorgarh'],['Rajasthan'],['Chittorgarh'],['Rajasthan'],['Chittorgarh'],True,True,True,True
+8,96,['Rajasthan'],['Churu'],['Rajasthan'],['Churu'],['Rajasthan'],['Churu'],True,True,True,True
+8,97,['Rajasthan'],['Dausa'],['Rajasthan'],['Dausa'],['Rajasthan'],['Dausa'],True,True,True,True
+8,98,['Rajasthan'],['Dholpur'],['Rajasthan'],['Dholpur'],['Rajasthan'],['Dholpur'],True,True,True,True
+8,99,['Rajasthan'],['Dungarpur'],['Rajasthan'],['Dungarpur'],['Rajasthan'],['Dungarpur'],True,True,True,True
+8,100,['Rajasthan'],['Ganganagar'],['Rajasthan'],['Ganganagar'],['Rajasthan'],['Ganganagar'],True,True,True,True
+8,101,['Rajasthan'],['Hanumangarh'],['Rajasthan'],['Hanumangarh'],['Rajasthan'],['Hanumangarh'],True,True,True,True
+8,102,['Rajasthan'],['Jaipur'],['Rajasthan'],['Jaipur'],['Rajasthan'],['Jaipur'],True,True,True,True
+8,103,['Rajasthan'],['Jaisalmer'],['Rajasthan'],['Jaisalmer'],['Rajasthan'],['Jaisalmer'],True,True,True,True
+8,104,['Rajasthan'],['Jalore'],['Rajasthan'],['Jalore'],['Rajasthan'],['Jalore'],True,True,True,True
+8,105,['Rajasthan'],['Jhalawar'],['Rajasthan'],['Jhalawar'],['Rajasthan'],['Jhalawar'],True,True,True,True
+8,106,['Rajasthan'],['Jhunjhunu'],['Rajasthan'],['Jhunjhunu'],['Rajasthan'],['Jhunjhunu'],True,True,True,True
+8,107,['Rajasthan'],['Jodhpur'],['Rajasthan'],['Jodhpur'],['Rajasthan'],['Jodhpur'],True,True,True,True
+8,108,['Rajasthan'],['Karauli'],['Rajasthan'],['Karauli'],['Rajasthan'],['Karauli'],True,True,True,True
+8,109,['Rajasthan'],['Kota'],['Rajasthan'],['Kota'],['Rajasthan'],['Kota'],True,True,True,True
+8,110,['Rajasthan'],['Nagaur'],['Rajasthan'],['Nagaur'],['Rajasthan'],['Nagaur'],True,True,True,True
+8,111,['Rajasthan'],['Pali'],['Rajasthan'],['Pali'],['Rajasthan'],['Pali'],True,True,True,True
+8,112,['Rajasthan'],['Rajsamand'],['Rajasthan'],['Rajsamand'],['Rajasthan'],['Rajsamand'],True,True,True,True
+8,113,['Rajasthan'],['Sawai Madhopur'],['Rajasthan'],['Sawai Madhopur'],['Rajasthan'],['Sawai Madhopur'],True,True,True,True
+8,114,['Rajasthan'],['Sikar'],['Rajasthan'],['Sikar'],['Rajasthan'],['Sikar'],True,True,True,True
+8,115,['Rajasthan'],['Sirohi'],['Rajasthan'],['Sirohi'],['Rajasthan'],['Sirohi'],True,True,True,True
+8,116,['Rajasthan'],['Tonk'],['Rajasthan'],['Tonk'],['Rajasthan'],['Tonk'],True,True,True,True
+8,117,['Rajasthan'],['Udaipur'],['Rajasthan'],['Udaipur'],['Rajasthan'],['Udaipur'],True,True,True,True
+8,629,['Rajasthan'],['Pratapgarh'],['Rajasthan'],['Pratapgarh'],['Rajasthan'],['Pratapgarh'],True,True,True,True
+9,118,['Uttar Pradesh'],['Agra'],['Uttar Pradesh'],['Agra'],['Uttar Pradesh'],['Agra'],True,True,True,True
+9,119,['Uttar Pradesh'],['Aligarh'],['Uttar Pradesh'],['Aligarh'],['Uttar Pradesh'],['Aligarh'],True,True,True,True
+9,120,['Uttar Pradesh'],['Prayagraj'],['Uttar Pradesh'],['Prayagraj'],['Uttar Pradesh'],['Prayagraj'],True,True,True,True
+9,121,['Uttar Pradesh'],['Ambedkar Nagar'],['Uttar Pradesh'],['Ambedkar Nagar'],['Uttar Pradesh'],['Ambedkar Nagar'],True,True,True,True
+9,122,['Uttar Pradesh'],['Auraiya'],['Uttar Pradesh'],['Auraiya'],['Uttar Pradesh'],['Auraiya'],True,True,True,True
+9,123,['Uttar Pradesh'],['Azamgarh'],['Uttar Pradesh'],['Azamgarh'],['Uttar Pradesh'],['Azamgarh'],True,True,True,True
+9,124,['Uttar Pradesh'],['Baghpat'],['Uttar Pradesh'],['Baghpat'],['Uttar Pradesh'],['Baghpat'],True,True,True,True
+9,125,['Uttar Pradesh'],['Bahraich'],['Uttar Pradesh'],['Bahraich'],['Uttar Pradesh'],['Bahraich'],True,True,True,True
+9,126,['Uttar Pradesh'],['Ballia'],['Uttar Pradesh'],['Ballia'],['Uttar Pradesh'],['Ballia'],True,True,True,True
+9,127,['Uttar Pradesh'],['Balrampur'],['Uttar Pradesh'],['Balrampur'],['Uttar Pradesh'],['Balrampur'],True,True,True,True
+9,128,['Uttar Pradesh'],['Banda'],['Uttar Pradesh'],['Banda'],['Uttar Pradesh'],['Banda'],True,True,True,True
+9,129,['Uttar Pradesh'],['Barabanki'],['Uttar Pradesh'],['Barabanki'],['Uttar Pradesh'],['Bara Banki'],True,True,True,False
+9,130,['Uttar Pradesh'],['Bareilly'],['Uttar Pradesh'],['Bareilly'],['Uttar Pradesh'],['Bareilly'],True,True,True,True
+9,131,['Uttar Pradesh'],['Basti'],['Uttar Pradesh'],['Basti'],['Uttar Pradesh'],['Basti'],True,True,True,True
+9,132,['Uttar Pradesh'],['Bijnor'],['Uttar Pradesh'],['Bijnor'],['Uttar Pradesh'],['Bijnor'],True,True,True,True
+9,133,['Uttar Pradesh'],['Budaun'],['Uttar Pradesh'],['Budaun'],['Uttar Pradesh'],['Budaun'],True,True,True,True
+9,134,['Uttar Pradesh'],['Bulandshahr'],['Uttar Pradesh'],['Bulandshahr'],['Uttar Pradesh'],['Bulandshahr'],True,True,True,True
+9,135,['Uttar Pradesh'],['Chandauli'],['Uttar Pradesh'],['Chandauli'],['Uttar Pradesh'],['Chandauli'],True,True,True,True
+9,136,['Uttar Pradesh'],['Chitrakoot'],['Uttar Pradesh'],['Chitrakoot'],['Uttar Pradesh'],['Chitrakoot'],True,True,True,True
+9,137,['Uttar Pradesh'],['Deoria'],['Uttar Pradesh'],['Deoria'],['Uttar Pradesh'],['Deoria'],True,True,True,True
+9,138,['Uttar Pradesh'],['Etah'],['Uttar Pradesh'],['Etah'],['Uttar Pradesh'],['Etah'],True,True,True,True
+9,139,['Uttar Pradesh'],['Etawah'],['Uttar Pradesh'],['Etawah'],['Uttar Pradesh'],['Etawah'],True,True,True,True
+9,140,['Uttar Pradesh'],['Ayodhya'],['Uttar Pradesh'],['Ayodhya'],['Uttar Pradesh'],['Ayodhya'],True,True,True,True
+9,141,['Uttar Pradesh'],['Farrukhabad'],['Uttar Pradesh'],['Farrukhabad'],['Uttar Pradesh'],['Farrukhabad'],True,True,True,True
+9,142,['Uttar Pradesh'],['Fatehpur'],['Uttar Pradesh'],['Fatehpur'],['Uttar Pradesh'],['Fatehpur'],True,True,True,True
+9,143,['Uttar Pradesh'],['Firozabad'],['Uttar Pradesh'],['Firozabad'],['Uttar Pradesh'],['Firozabad'],True,True,True,True
+9,144,['Uttar Pradesh'],['Gautam Buddha Nagar'],['Uttar Pradesh'],['Gautam Buddha Nagar'],['Uttar Pradesh'],['Gautam Buddha Nagar'],True,True,True,True
+9,145,['Uttar Pradesh'],['Ghaziabad'],['Uttar Pradesh'],['Ghaziabad'],['Uttar Pradesh'],['Ghaziabad'],True,True,True,True
+9,146,['Uttar Pradesh'],['Ghazipur'],['Uttar Pradesh'],['Ghazipur'],['Uttar Pradesh'],['Ghazipur'],True,True,True,True
+9,147,['Uttar Pradesh'],['Gonda'],['Uttar Pradesh'],['Gonda'],['Uttar Pradesh'],['Gonda'],True,True,True,True
+9,148,['Uttar Pradesh'],['Gorakhpur'],['Uttar Pradesh'],['Gorakhpur'],['Uttar Pradesh'],['Gorakhpur'],True,True,True,True
+9,149,['Uttar Pradesh'],['Hamirpur'],['Uttar Pradesh'],['Hamirpur'],['Uttar Pradesh'],['Hamirpur'],True,True,True,True
+9,150,['Uttar Pradesh'],['Hardoi'],['Uttar Pradesh'],['Hardoi'],['Uttar Pradesh'],['Hardoi'],True,True,True,True
+9,151,['Uttar Pradesh'],['Jalaun'],['Uttar Pradesh'],['Jalaun'],['Uttar Pradesh'],['Jalaun'],True,True,True,True
+9,152,['Uttar Pradesh'],['Jaunpur'],['Uttar Pradesh'],['Jaunpur'],['Uttar Pradesh'],['Jaunpur'],True,True,True,True
+9,153,['Uttar Pradesh'],['Jhansi'],['Uttar Pradesh'],['Jhansi'],['Uttar Pradesh'],['Jhansi'],True,True,True,True
+9,154,['Uttar Pradesh'],['Amroha'],['Uttar Pradesh'],['Amroha'],['Uttar Pradesh'],['Amroha'],True,True,True,True
+9,155,['Uttar Pradesh'],['Kannauj'],['Uttar Pradesh'],['Kannauj'],['Uttar Pradesh'],['Kannauj'],True,True,True,True
+9,156,['Uttar Pradesh'],['Kanpur Dehat'],['Uttar Pradesh'],['Kanpur Dehat'],['Uttar Pradesh'],['Kanpur Dehat'],True,True,True,True
+9,157,['Uttar Pradesh'],['Kanpur Nagar'],['Uttar Pradesh'],['Kanpur Nagar'],['Uttar Pradesh'],['Kanpur Nagar'],True,True,True,True
+9,158,['Uttar Pradesh'],['Kaushambi'],['Uttar Pradesh'],['Kaushambi'],['Uttar Pradesh'],['Kaushambi'],True,True,True,True
+9,159,['Uttar Pradesh'],['Kheri'],['Uttar Pradesh'],['Kheri'],['Uttar Pradesh'],['Kheri'],True,True,True,True
+9,160,['Uttar Pradesh'],['Kushi Nagar'],['Uttar Pradesh'],['Kushi Nagar'],['Uttar Pradesh'],['Kushinagar'],True,True,True,False
+9,161,['Uttar Pradesh'],['Lalitpur'],['Uttar Pradesh'],['Lalitpur'],['Uttar Pradesh'],['Lalitpur'],True,True,True,True
+9,162,['Uttar Pradesh'],['Lucknow'],['Uttar Pradesh'],['Lucknow'],['Uttar Pradesh'],['Lucknow'],True,True,True,True
+9,163,['Uttar Pradesh'],['Hathras'],['Uttar Pradesh'],['Hathras'],['Uttar Pradesh'],['Hathras'],True,True,True,True
+9,164,['Uttar Pradesh'],['Maharajganj'],['Uttar Pradesh'],['Maharajganj'],['Uttar Pradesh'],['Mahrajganj'],True,True,True,False
+9,165,['Uttar Pradesh'],['Mahoba'],['Uttar Pradesh'],['Mahoba'],['Uttar Pradesh'],['Mahoba'],True,True,True,True
+9,166,['Uttar Pradesh'],['Mainpuri'],['Uttar Pradesh'],['Mainpuri'],['Uttar Pradesh'],['Mainpuri'],True,True,True,True
+9,167,['Uttar Pradesh'],['Mathura'],['Uttar Pradesh'],['Mathura'],['Uttar Pradesh'],['Mathura'],True,True,True,True
+9,168,['Uttar Pradesh'],['Mau'],['Uttar Pradesh'],['Mau'],['Uttar Pradesh'],['Mau'],True,True,True,True
+9,169,['Uttar Pradesh'],['Meerut'],['Uttar Pradesh'],['Meerut'],['Uttar Pradesh'],['Meerut'],True,True,True,True
+9,170,['Uttar Pradesh'],['Mirzapur'],['Uttar Pradesh'],['Mirzapur'],['Uttar Pradesh'],['Mirzapur'],True,True,True,True
+9,171,['Uttar Pradesh'],['Moradabad'],['Uttar Pradesh'],['Moradabad'],['Uttar Pradesh'],['Moradabad'],True,True,True,True
+9,172,['Uttar Pradesh'],['Muzaffarnagar'],['Uttar Pradesh'],['Muzaffarnagar'],['Uttar Pradesh'],['Muzaffarnagar'],True,True,True,True
+9,173,['Uttar Pradesh'],['Pilibhit'],['Uttar Pradesh'],['Pilibhit'],['Uttar Pradesh'],['Pilibhit'],True,True,True,True
+9,174,['Uttar Pradesh'],['Pratapgarh'],['Uttar Pradesh'],['Pratapgarh'],['Uttar Pradesh'],['Pratapgarh'],True,True,True,True
+9,175,['Uttar Pradesh'],['Rae Bareli'],['Uttar Pradesh'],['Rae Bareli'],['Uttar Pradesh'],['Rae Bareli'],True,True,True,True
+9,176,['Uttar Pradesh'],['Rampur'],['Uttar Pradesh'],['Rampur'],['Uttar Pradesh'],['Rampur'],True,True,True,True
+9,177,['Uttar Pradesh'],['Saharanpur'],['Uttar Pradesh'],['Saharanpur'],['Uttar Pradesh'],['Saharanpur'],True,True,True,True
+9,178,['Uttar Pradesh'],['Sant Kabeer Nagar'],['Uttar Pradesh'],['Sant Kabeer Nagar'],['Uttar Pradesh'],['Sant Kabir Nagar'],True,True,True,False
+9,179,['Uttar Pradesh'],['Bhadohi'],['Uttar Pradesh'],['Bhadohi'],['Uttar Pradesh'],['Bhadohi'],True,True,True,True
+9,180,['Uttar Pradesh'],['Shahjahanpur'],['Uttar Pradesh'],['Shahjahanpur'],['Uttar Pradesh'],['Shahjahanpur'],True,True,True,True
+9,181,['Uttar Pradesh'],['Shravasti'],['Uttar Pradesh'],['Shravasti'],['Uttar Pradesh'],['Shrawasti'],True,True,True,False
+9,182,['Uttar Pradesh'],['Siddharth Nagar'],['Uttar Pradesh'],['Siddharth Nagar'],['Uttar Pradesh'],['Siddharthnagar'],True,True,True,False
+9,183,['Uttar Pradesh'],['Sitapur'],['Uttar Pradesh'],['Sitapur'],['Uttar Pradesh'],['Sitapur'],True,True,True,True
+9,184,['Uttar Pradesh'],['Sonbhadra'],['Uttar Pradesh'],['Sonbhadra'],['Uttar Pradesh'],['Sonbhadra'],True,True,True,True
+9,185,['Uttar Pradesh'],['Sultanpur'],['Uttar Pradesh'],['Sultanpur'],['Uttar Pradesh'],['Sultanpur'],True,True,True,True
+9,186,['Uttar Pradesh'],['Unnao'],['Uttar Pradesh'],['Unnao'],['Uttar Pradesh'],['Unnao'],True,True,True,True
+9,187,['Uttar Pradesh'],['Varanasi'],['Uttar Pradesh'],['Varanasi'],['Uttar Pradesh'],['Varanasi'],True,True,True,True
+9,633,['Uttar Pradesh'],['Kasganj'],['Uttar Pradesh'],['Kasganj'],['Uttar Pradesh'],['Kasganj'],True,True,True,True
+9,640,,,,,['Uttar Pradesh'],['Amethi'],False,False,True,
+9,659,,,,,['Uttar Pradesh'],['Sambhal'],False,False,True,
+9,660,,,,,['Uttar Pradesh'],['Shamli'],False,False,True,
+9,661,,,,,['Uttar Pradesh'],['Hapur'],False,False,True,
+10,188,['Bihar'],['Araria'],['Bihar'],['Araria'],['Bihar'],['Araria'],True,True,True,True
+10,189,['Bihar'],['Aurangabad'],['Bihar'],['Aurangabad'],['Bihar'],['Aurangabad'],True,True,True,True
+10,190,['Bihar'],['Banka'],['Bihar'],['Banka'],['Bihar'],['Banka'],True,True,True,True
+10,191,['Bihar'],['Begusarai'],['Bihar'],['Begusarai'],['Bihar'],['Begusarai'],True,True,True,True
+10,192,['Bihar'],['Bhagalpur'],['Bihar'],['Bhagalpur'],['Bihar'],['Bhagalpur'],True,True,True,True
+10,193,['Bihar'],['Bhojpur'],['Bihar'],['Bhojpur'],['Bihar'],['Bhojpur'],True,True,True,True
+10,194,['Bihar'],['Buxar'],['Bihar'],['Buxar'],['Bihar'],['Buxar'],True,True,True,True
+10,195,['Bihar'],['Darbhanga'],['Bihar'],['Darbhanga'],['Bihar'],['Darbhanga'],True,True,True,True
+10,196,['Bihar'],['Gaya'],['Bihar'],['Gaya'],['Bihar'],['Gaya'],True,True,True,True
+10,197,['Bihar'],['Gopalganj'],['Bihar'],['Gopalganj'],['Bihar'],['Gopalganj'],True,True,True,True
+10,198,['Bihar'],['Jamui'],['Bihar'],['Jamui'],['Bihar'],['Jamui'],True,True,True,True
+10,199,['Bihar'],['Jehanabad'],['Bihar'],['Jehanabad'],['Bihar'],['Jehanabad'],True,True,True,True
+10,200,['Bihar'],['Kaimur (Bhabua)'],['Bihar'],['Kaimur (Bhabua)'],['Bihar'],['Kaimur (Bhabua)'],True,True,True,True
+10,201,['Bihar'],['Katihar'],['Bihar'],['Katihar'],['Bihar'],['Katihar'],True,True,True,True
+10,202,['Bihar'],['Khagaria'],['Bihar'],['Khagaria'],['Bihar'],['Khagaria'],True,True,True,True
+10,203,['Bihar'],['Kishanganj'],['Bihar'],['Kishanganj'],['Bihar'],['Kishanganj'],True,True,True,True
+10,204,['Bihar'],['Lakhisarai'],['Bihar'],['Lakhisarai'],['Bihar'],['Lakhisarai'],True,True,True,True
+10,205,['Bihar'],['Madhepura'],['Bihar'],['Madhepura'],['Bihar'],['Madhepura'],True,True,True,True
+10,206,['Bihar'],['Madhubani'],['Bihar'],['Madhubani'],['Bihar'],['Madhubani'],True,True,True,True
+10,207,['Bihar'],['Munger'],['Bihar'],['Munger'],['Bihar'],['Munger'],True,True,True,True
+10,208,['Bihar'],['Muzaffarpur'],['Bihar'],['Muzaffarpur'],['Bihar'],['Muzaffarpur'],True,True,True,True
+10,209,['Bihar'],['Nalanda'],['Bihar'],['Nalanda'],['Bihar'],['Nalanda'],True,True,True,True
+10,210,['Bihar'],['Nawada'],['Bihar'],['Nawada'],['Bihar'],['Nawada'],True,True,True,True
+10,211,['Bihar'],['Pashchim Champaran'],['Bihar'],['Pashchim Champaran'],['Bihar'],['Pashchim Champaran'],True,True,True,True
+10,212,['Bihar'],['Patna'],['Bihar'],['Patna'],['Bihar'],['Patna'],True,True,True,True
+10,213,['Bihar'],['Purbi Champaran'],['Bihar'],['Purbi Champaran'],['Bihar'],['Purbi Champaran'],True,True,True,True
+10,214,['Bihar'],['Purnia'],['Bihar'],['Purnia'],['Bihar'],['Purnia'],True,True,True,True
+10,215,['Bihar'],['Rohtas'],['Bihar'],['Rohtas'],['Bihar'],['Rohtas'],True,True,True,True
+10,216,['Bihar'],['Saharsa'],['Bihar'],['Saharsa'],['Bihar'],['Saharsa'],True,True,True,True
+10,217,['Bihar'],['Samastipur'],['Bihar'],['Samastipur'],['Bihar'],['Samastipur'],True,True,True,True
+10,218,['Bihar'],['Saran'],['Bihar'],['Saran'],['Bihar'],['Saran'],True,True,True,True
+10,219,['Bihar'],['Sheikhpura'],['Bihar'],['Sheikhpura'],['Bihar'],['Sheikhpura'],True,True,True,True
+10,220,['Bihar'],['Sheohar'],['Bihar'],['Sheohar'],['Bihar'],['Sheohar'],True,True,True,True
+10,221,['Bihar'],['Sitamarhi'],['Bihar'],['Sitamarhi'],['Bihar'],['Sitamarhi'],True,True,True,True
+10,222,['Bihar'],['Siwan'],['Bihar'],['Siwan'],['Bihar'],['Siwan'],True,True,True,True
+10,223,['Bihar'],['Supaul'],['Bihar'],['Supaul'],['Bihar'],['Supaul'],True,True,True,True
+10,224,['Bihar'],['Vaishali'],['Bihar'],['Vaishali'],['Bihar'],['Vaishali'],True,True,True,True
+10,611,['Bihar'],['Arwal'],['Bihar'],['Arwal'],['Bihar'],['Arwal'],True,True,True,True
+11,225,,,['Sikkim'],['Gangtok'],['Sikkim'],['Gangtok'],False,True,True,True
+11,226,,,['Sikkim'],['Mangan'],['Sikkim'],['Mangan'],False,True,True,True
+11,227,,,['Sikkim'],['Namchi'],['Sikkim'],['Namchi'],False,True,True,True
+11,228,,,['Sikkim'],['Gyalshing'],['Sikkim'],['Gyalshing'],False,True,True,True
+11,741,,,,,['Sikkim'],['Pakyong'],False,False,True,
+11,742,,,,,['Sikkim'],['Soreng'],False,False,True,
+12,229,['Arunachal Pradesh'],['Changlang'],['Arunachal Pradesh'],['Changlang'],['Arunachal Pradesh'],['Changlang'],True,True,True,True
+12,230,,,['Arunachal Pradesh'],['Dibang Valley'],['Arunachal Pradesh'],['Dibang Valley'],False,True,True,True
+12,231,,,['Arunachal Pradesh'],['East Kameng'],['Arunachal Pradesh'],['East Kameng'],False,True,True,True
+12,232,['Arunachal Pradesh'],['East Siang'],['Arunachal Pradesh'],['East Siang'],['Arunachal Pradesh'],['East Siang'],True,True,True,True
+12,233,,,['Arunachal Pradesh'],['Kurung Kumey'],['Arunachal Pradesh'],['Kurung Kumey'],False,True,True,True
+12,234,['Arunachal Pradesh'],['Lohit'],['Arunachal Pradesh'],['Lohit'],['Arunachal Pradesh'],['Lohit'],True,True,True,True
+12,235,,,['Arunachal Pradesh'],['Lower Dibang Valley'],['Arunachal Pradesh'],['Lower Dibang Valley'],False,True,True,True
+12,236,,,['Arunachal Pradesh'],['Lower Subansiri'],['Arunachal Pradesh'],['Lower Subansiri'],False,True,True,True
+12,237,,,['Arunachal Pradesh'],['Papum Pare'],['Arunachal Pradesh'],['Papum Pare'],False,True,True,True
+12,238,,,['Arunachal Pradesh'],['Tawang'],['Arunachal Pradesh'],['Tawang'],False,True,True,True
+12,239,['Arunachal Pradesh'],['Tirap'],['Arunachal Pradesh'],['Tirap'],['Arunachal Pradesh'],['Tirap'],True,True,True,True
+12,240,,,['Arunachal Pradesh'],['Upper Siang'],['Arunachal Pradesh'],['Upper Siang'],False,True,True,True
+12,241,,,['Arunachal Pradesh'],['Upper Subansiri'],['Arunachal Pradesh'],['Upper Subansiri'],False,True,True,True
+12,242,,,['Arunachal Pradesh'],['West Kameng'],['Arunachal Pradesh'],['West Kameng'],False,True,True,True
+12,243,,,['Arunachal Pradesh'],['West Siang'],['Arunachal Pradesh'],['West Siang'],False,True,True,True
+12,628,,,['Arunachal Pradesh'],['Anjaw'],['Arunachal Pradesh'],['Anjaw'],False,True,True,True
+12,666,,,,,['Arunachal Pradesh'],['Longding'],False,False,True,
+12,677,,,,,['Arunachal Pradesh'],['Kra Daadi'],False,False,True,
+12,678,,,,,['Arunachal Pradesh'],['Namsai'],False,False,True,
+12,679,,,,,['Arunachal Pradesh'],['Siang'],False,False,True,
+12,718,,,,,['Arunachal Pradesh'],['Kamle'],False,False,True,
+12,719,,,,,['Arunachal Pradesh'],['Lower Siang'],False,False,True,
+12,723,,,,,['Arunachal Pradesh'],['Pakke Kessang'],False,False,True,
+12,724,,,,,['Arunachal Pradesh'],['Leparada'],False,False,True,
+12,725,,,,,['Arunachal Pradesh'],['Shi Yomi'],False,False,True,
+13,244,['Nagaland'],['Dimapur'],['Nagaland'],['Dimapur'],['Nagaland'],['Dimapur'],True,True,True,True
+13,245,['Nagaland'],['Kohima'],['Nagaland'],['Kohima'],['Nagaland'],['Kohima'],True,True,True,True
+13,246,['Nagaland'],['Mokokchung'],['Nagaland'],['Mokokchung'],['Nagaland'],['Mokokchung'],True,True,True,True
+13,247,['Nagaland'],['Mon'],['Nagaland'],['Mon'],['Nagaland'],['Mon'],True,True,True,True
+13,248,,,['Nagaland'],['Phek'],['Nagaland'],['Phek'],False,True,True,True
+13,249,,,['Nagaland'],['Tuensang'],['Nagaland'],['Tuensang'],False,True,True,True
+13,250,['Nagaland'],['Wokha'],['Nagaland'],['Wokha'],['Nagaland'],['Wokha'],True,True,True,True
+13,251,,,['Nagaland'],['Zunheboto'],['Nagaland'],['Zunheboto'],False,True,True,True
+13,613,,,['Nagaland'],['Peren'],['Nagaland'],['Peren'],False,True,True,True
+13,614,,,['Nagaland'],['Kiphire'],['Nagaland'],['Kiphire'],False,True,True,True
+13,615,,,['Nagaland'],['Longleng'],['Nagaland'],['Longleng'],False,True,True,True
+13,736,,,,,['Nagaland'],['Noklak'],False,False,True,
+13,757,,,,,['Nagaland'],['Tseminyu'],False,False,True,
+13,758,,,,,['Nagaland'],['Chumoukedima'],False,False,True,
+13,764,,,,,['Nagaland'],['Niuland'],False,False,True,
+13,765,,,,,['Nagaland'],['Shamator'],False,False,True,
+14,252,,,['Manipur'],['Bishnupur'],['Manipur'],['Bishnupur'],False,True,True,True
+14,253,,,['Manipur'],['Chandel'],['Manipur'],['Chandel'],False,True,True,True
+14,254,,,['Manipur'],['Churachandpur'],['Manipur'],['Churachandpur'],False,True,True,True
+14,255,['Manipur'],['Imphal East'],['Manipur'],['Imphal East'],['Manipur'],['Imphal East'],True,True,True,True
+14,256,,,['Manipur'],['Imphal West'],['Manipur'],['Imphal West'],False,True,True,True
+14,257,,,['Manipur'],['Senapati'],['Manipur'],['Senapati'],False,True,True,True
+14,258,,,['Manipur'],['Tamenglong'],['Manipur'],['Tamenglong'],False,True,True,True
+14,259,,,['Manipur'],['Thoubal'],['Manipur'],['Thoubal'],False,True,True,True
+14,260,,,['Manipur'],['Ukhrul'],['Manipur'],['Ukhrul'],False,True,True,True
+15,261,,,['Mizoram'],['Aizawl'],['Mizoram'],['Aizawl'],False,True,True,True
+15,262,,,['Mizoram'],['Champhai'],['Mizoram'],['Champhai'],False,True,True,True
+15,263,,,['Mizoram'],['Kolasib'],['Mizoram'],['Kolasib'],False,True,True,True
+15,264,,,['Mizoram'],['Lawngtlai'],['Mizoram'],['Lawngtlai'],False,True,True,True
+15,265,,,['Mizoram'],['Lunglei'],['Mizoram'],['Lunglei'],False,True,True,True
+15,266,,,['Mizoram'],['Mamit'],['Mizoram'],['Mamit'],False,True,True,True
+15,267,,,['Mizoram'],['Saiha'],['Mizoram'],['Siaha'],False,True,True,False
+15,268,,,['Mizoram'],['Serchhip'],['Mizoram'],['Serchhip'],False,True,True,True
+15,726,,,,,['Mizoram'],['Hnahthial'],False,False,True,
+15,727,,,,,['Mizoram'],['Saitual'],False,False,True,
+15,728,,,,,['Mizoram'],['Khawzawl'],False,False,True,
+16,269,['Tripura'],['Dhalai'],['Tripura'],['Dhalai'],['Tripura'],['Dhalai'],True,True,True,True
+16,270,['Tripura'],['North Tripura'],['Tripura'],['North Tripura'],['Tripura'],['North Tripura'],True,True,True,True
+16,271,['Tripura'],['South Tripura'],['Tripura'],['South Tripura'],['Tripura'],['South Tripura'],True,True,True,True
+16,272,['Tripura'],['West Tripura'],['Tripura'],['West Tripura'],['Tripura'],['West Tripura'],True,True,True,True
+16,652,,,,,['Tripura'],['Khowai'],False,False,True,
+16,653,,,,,['Tripura'],['Sepahijala'],False,False,True,
+16,654,,,,,['Tripura'],['Gomati'],False,False,True,
+16,655,,,,,['Tripura'],['Unakoti'],False,False,True,
+17,273,['Meghalaya'],['East Garo Hills'],['Meghalaya'],['East Garo Hills'],['Meghalaya'],['East Garo Hills'],True,True,True,True
+17,274,['Meghalaya'],['East Khasi Hills'],['Meghalaya'],['East Khasi Hills'],['Meghalaya'],['East Khasi Hills'],True,True,True,True
+17,275,['Meghalaya'],['West Jaintia Hills'],,,['Meghalaya'],['West Jaintia Hills'],True,False,True,True
+17,276,['Meghalaya'],['Ri Bhoi'],['Meghalaya'],['Ri Bhoi'],['Meghalaya'],['Ri Bhoi'],True,True,True,True
+17,277,['Meghalaya'],['South Garo Hills'],['Meghalaya'],['South Garo Hills'],['Meghalaya'],['South Garo Hills'],True,True,True,True
+17,278,['Meghalaya'],['West Garo Hills'],['Meghalaya'],['West Garo Hills'],['Meghalaya'],['West Garo Hills'],True,True,True,True
+17,279,['Meghalaya'],['West Khasi Hills'],['Meghalaya'],['West Khasi Hills'],['Meghalaya'],['West Khasi Hills'],True,True,True,True
+17,656,,,,,['Meghalaya'],['North Garo Hills'],False,False,True,
+17,657,,,['Meghalaya'],['East Jaintia Hills'],['Meghalaya'],['East Jaintia Hills'],False,True,True,True
+17,658,,,,,['Meghalaya'],['South West Khasi Hills'],False,False,True,
+17,663,,,,,['Meghalaya'],['South West Garo Hills'],False,False,True,
+18,280,['Assam'],['Barpeta'],['Assam'],['Barpeta'],['Assam'],['Barpeta'],True,True,True,True
+18,281,['Assam'],['Bongaigaon'],['Assam'],['Bongaigaon'],['Assam'],['Bongaigaon'],True,True,True,True
+18,282,['Assam'],['Cachar'],['Assam'],['Cachar'],['Assam'],['Cachar'],True,True,True,True
+18,283,['Assam'],['Darrang'],['Assam'],['Darrang'],['Assam'],['Darrang'],True,True,True,True
+18,284,['Assam'],['Dhemaji'],['Assam'],['Dhemaji'],['Assam'],['Dhemaji'],True,True,True,True
+18,285,['Assam'],['Dhubri'],['Assam'],['Dhubri'],['Assam'],['Dhubri'],True,True,True,True
+18,286,['Assam'],['Dibrugarh'],['Assam'],['Dibrugarh'],['Assam'],['Dibrugarh'],True,True,True,True
+18,287,['Assam'],['Goalpara'],['Assam'],['Goalpara'],['Assam'],['Goalpara'],True,True,True,True
+18,288,['Assam'],['Golaghat'],['Assam'],['Golaghat'],['Assam'],['Golaghat'],True,True,True,True
+18,289,['Assam'],['Hailakandi'],['Assam'],['Hailakandi'],['Assam'],['Hailakandi'],True,True,True,True
+18,290,['Assam'],['Jorhat'],['Assam'],['Jorhat'],['Assam'],['Jorhat'],True,True,True,True
+18,291,['Assam'],['Kamrup'],['Assam'],['Kamrup'],['Assam'],['Kamrup'],True,True,True,True
+18,292,['Assam'],['Karbi Anglong'],['Assam'],['Karbi Anglong'],['Assam'],['Karbi Anglong'],True,True,True,True
+18,293,['Assam'],['Karimganj'],['Assam'],['Karimganj'],['Assam'],['Sribhumi'],True,True,True,False
+18,294,['Assam'],['Kokrajhar'],['Assam'],['Kokrajhar'],['Assam'],['Kokrajhar'],True,True,True,True
+18,295,['Assam'],['Lakhimpur'],['Assam'],['Lakhimpur'],['Assam'],['Lakhimpur'],True,True,True,True
+18,296,['Assam'],['Marigaon'],['Assam'],['Marigaon'],['Assam'],['Marigaon'],True,True,True,True
+18,297,['Assam'],['Nagaon'],['Assam'],['Nagaon'],['Assam'],['Nagaon'],True,True,True,True
+18,298,['Assam'],['Nalbari'],['Assam'],['Nalbari'],['Assam'],['Nalbari'],True,True,True,True
+18,299,,,['Assam'],['Dima Hasao'],['Assam'],['Dima Hasao'],False,True,True,True
+18,300,['Assam'],['Sivasagar'],['Assam'],['Sivasagar'],['Assam'],['Sivasagar'],True,True,True,True
+18,301,['Assam'],['Sonitpur'],['Assam'],['Sonitpur'],['Assam'],['Sonitpur'],True,True,True,True
+18,302,['Assam'],['Tinsukia'],['Assam'],['Tinsukia'],['Assam'],['Tinsukia'],True,True,True,True
+18,612,['Assam'],['Chirang'],['Assam'],['Chirang'],['Assam'],['Chirang'],True,True,True,True
+18,616,['Assam'],['Baksa'],['Assam'],['Baksa'],['Assam'],['Baksa'],True,True,True,True
+18,617,['Assam'],['Udalguri'],['Assam'],['Udalguri'],['Assam'],['Udalguri'],True,True,True,True
+18,618,['Assam'],['Kamrup Metro'],['Assam'],['Kamrup Metro'],['Assam'],['Kamrup Metro'],True,True,True,True
+18,705,,,,,['Assam'],['Biswanath'],False,False,True,
+18,706,,,,,['Assam'],['Majuli'],False,False,True,
+18,707,,,,,['Assam'],['South Salmara Mancachar'],False,False,True,
+18,708,,,,,['Assam'],['Charaideo'],False,False,True,
+18,709,,,,,['Assam'],['Hojai'],False,False,True,
+18,710,,,,,['Assam'],['West Karbi Anglong'],False,False,True,
+19,303,['West Bengal'],['North 24 Parganas'],['West Bengal'],['24 Paraganas North'],['West Bengal'],['North 24 Parganas'],True,True,True,False
+19,304,['West Bengal'],['South 24 Parganas'],['West Bengal'],['24 Paraganas South'],['West Bengal'],['South 24 Parganas'],True,True,True,False
+19,305,['West Bengal'],['Bankura'],['West Bengal'],['Bankura'],['West Bengal'],['Bankura'],True,True,True,True
+19,306,['West Bengal'],['Purba Bardhaman'],,,['West Bengal'],['Purba Bardhaman'],True,False,True,True
+19,307,['West Bengal'],['Birbhum'],['West Bengal'],['Birbhum'],['West Bengal'],['Birbhum'],True,True,True,True
+19,308,['West Bengal'],['Cooch Behar'],['West Bengal'],['Coochbehar'],['West Bengal'],['Cooch Behar'],True,True,True,False
+19,309,['West Bengal'],['Darjeeling'],['West Bengal'],['Darjeeling'],['West Bengal'],['Darjeeling'],True,True,True,True
+19,310,['West Bengal'],['Dakshin Dinajpur'],['West Bengal'],['Dinajpur Dakshin'],['West Bengal'],['Dakshin Dinajpur'],True,True,True,False
+19,311,['West Bengal'],['Uttar Dinajpur'],['West Bengal'],['Dinajpur Uttar'],['West Bengal'],['Uttar Dinajpur'],True,True,True,False
+19,312,['West Bengal'],['Hooghly'],['West Bengal'],['Hooghly'],['West Bengal'],['Hooghly'],True,True,True,True
+19,313,['West Bengal'],['Howrah'],['West Bengal'],['Howrah'],['West Bengal'],['Howrah'],True,True,True,True
+19,314,['West Bengal'],['Jalpaiguri'],['West Bengal'],['Jalpaiguri'],['West Bengal'],['Jalpaiguri'],True,True,True,True
+19,315,,,['West Bengal'],['Kolkata'],,,False,True,False,
+19,316,['West Bengal'],['Malda'],['West Bengal'],['Maldah'],['West Bengal'],['Malda'],True,True,True,False
+19,317,['West Bengal'],['Purba Medinipur'],['West Bengal'],['Medinipur East'],['West Bengal'],['Purba Medinipur'],True,True,True,False
+19,318,['West Bengal'],['Paschim Medinipur'],['West Bengal'],['Medinipur West'],['West Bengal'],['Paschim Medinipur'],True,True,True,False
+19,319,['West Bengal'],['Murshidabad'],['West Bengal'],['Murshidabad'],['West Bengal'],['Murshidabad'],True,True,True,True
+19,320,['West Bengal'],['Nadia'],['West Bengal'],['Nadia'],['West Bengal'],['Nadia'],True,True,True,True
+19,321,['West Bengal'],['Purulia'],['West Bengal'],['Purulia'],['West Bengal'],['Purulia'],True,True,True,True
+19,664,,,,,['West Bengal'],['Alipurduar'],False,False,True,
+19,702,,,,,['West Bengal'],['Kalimpong'],False,False,True,
+19,703,,,,,['West Bengal'],['Jhargram'],False,False,True,
+19,704,['West Bengal'],['Paschim Bardhaman'],['West Bengal'],['Paschim Bardhaman'],['West Bengal'],['Paschim Bardhaman'],True,True,True,True
+20,322,['Jharkhand'],['Bokaro'],['Jharkhand'],['Bokaro'],['Jharkhand'],['Bokaro'],True,True,True,True
+20,323,['Jharkhand'],['Chatra'],['Jharkhand'],['Chatra'],['Jharkhand'],['Chatra'],True,True,True,True
+20,324,['Jharkhand'],['Deoghar'],['Jharkhand'],['Deoghar'],['Jharkhand'],['Deoghar'],True,True,True,True
+20,325,['Jharkhand'],['Dhanbad'],['Jharkhand'],['Dhanbad'],['Jharkhand'],['Dhanbad'],True,True,True,True
+20,326,['Jharkhand'],['Dumka'],['Jharkhand'],['Dumka'],['Jharkhand'],['Dumka'],True,True,True,True
+20,327,['Jharkhand'],['East Singhbum'],['Jharkhand'],['East Singhbum'],['Jharkhand'],['East Singhbum'],True,True,True,True
+20,328,['Jharkhand'],['Garhwa'],['Jharkhand'],['Garhwa'],['Jharkhand'],['Garhwa'],True,True,True,True
+20,329,['Jharkhand'],['Giridih'],['Jharkhand'],['Giridih'],['Jharkhand'],['Giridih'],True,True,True,True
+20,330,['Jharkhand'],['Godda'],['Jharkhand'],['Godda'],['Jharkhand'],['Godda'],True,True,True,True
+20,331,['Jharkhand'],['Gumla'],['Jharkhand'],['Gumla'],['Jharkhand'],['Gumla'],True,True,True,True
+20,332,['Jharkhand'],['Hazaribagh'],['Jharkhand'],['Hazaribagh'],['Jharkhand'],['Hazaribagh'],True,True,True,True
+20,333,['Jharkhand'],['Jamtara'],['Jharkhand'],['Jamtara'],['Jharkhand'],['Jamtara'],True,True,True,True
+20,334,['Jharkhand'],['Koderma'],['Jharkhand'],['Koderma'],['Jharkhand'],['Koderma'],True,True,True,True
+20,335,['Jharkhand'],['Latehar'],['Jharkhand'],['Latehar'],['Jharkhand'],['Latehar'],True,True,True,True
+20,336,['Jharkhand'],['Lohardaga'],['Jharkhand'],['Lohardaga'],['Jharkhand'],['Lohardaga'],True,True,True,True
+20,337,['Jharkhand'],['Pakur'],['Jharkhand'],['Pakur'],['Jharkhand'],['Pakur'],True,True,True,True
+20,338,['Jharkhand'],['Palamu'],['Jharkhand'],['Palamu'],['Jharkhand'],['Palamu'],True,True,True,True
+20,339,['Jharkhand'],['Ranchi'],['Jharkhand'],['Ranchi'],['Jharkhand'],['Ranchi'],True,True,True,True
+20,340,['Jharkhand'],['Sahebganj'],['Jharkhand'],['Sahebganj'],['Jharkhand'],['Sahebganj'],True,True,True,True
+20,341,['Jharkhand'],['Saraikela Kharsawan'],['Jharkhand'],['Saraikela Kharsawan'],['Jharkhand'],['Saraikela Kharsawan'],True,True,True,True
+20,342,['Jharkhand'],['Simdega'],['Jharkhand'],['Simdega'],['Jharkhand'],['Simdega'],True,True,True,True
+20,343,['Jharkhand'],['West Singhbhum'],['Jharkhand'],['West Singhbhum'],['Jharkhand'],['West Singhbhum'],True,True,True,True
+20,606,['Jharkhand'],['Khunti'],['Jharkhand'],['Khunti'],['Jharkhand'],['Khunti'],True,True,True,True
+20,607,['Jharkhand'],['Ramgarh'],['Jharkhand'],['Ramgarh'],['Jharkhand'],['Ramgarh'],True,True,True,True
+21,344,['Odisha'],['Anugul'],['Odisha'],['Anugul'],['Odisha'],['Angul'],True,True,True,False
+21,345,['Odisha'],['Balangir'],['Odisha'],['Balangir'],['Odisha'],['Balangir'],True,True,True,True
+21,346,['Odisha'],['Baleshwar'],['Odisha'],['Baleshwar'],['Odisha'],['Balasore'],True,True,True,False
+21,347,['Odisha'],['Bargarh'],['Odisha'],['Bargarh'],['Odisha'],['Bargarh'],True,True,True,True
+21,348,['Odisha'],['Bhadrak'],['Odisha'],['Bhadrak'],['Odisha'],['Bhadrak'],True,True,True,True
+21,349,['Odisha'],['Boudh'],['Odisha'],['Boudh'],['Odisha'],['Boudh'],True,True,True,True
+21,350,['Odisha'],['Cuttack'],['Odisha'],['Cuttack'],['Odisha'],['Cuttack'],True,True,True,True
+21,351,['Odisha'],['Deogarh'],['Odisha'],['Deogarh'],['Odisha'],['Deogarh'],True,True,True,True
+21,352,['Odisha'],['Dhenkanal'],['Odisha'],['Dhenkanal'],['Odisha'],['Dhenkanal'],True,True,True,True
+21,353,['Odisha'],['Gajapati'],['Odisha'],['Gajapati'],['Odisha'],['Gajapati'],True,True,True,True
+21,354,['Odisha'],['Ganjam'],['Odisha'],['Ganjam'],['Odisha'],['Ganjam'],True,True,True,True
+21,355,['Odisha'],['Jagatsinghapur'],['Odisha'],['Jagatsinghapur'],['Odisha'],['Jagatsinghapur'],True,True,True,True
+21,356,['Odisha'],['Jajapur'],['Odisha'],['Jajapur'],['Odisha'],['Jajpur'],True,True,True,False
+21,357,['Odisha'],['Jharsuguda'],['Odisha'],['Jharsuguda'],['Odisha'],['Jharsuguda'],True,True,True,True
+21,358,['Odisha'],['Kalahandi'],['Odisha'],['Kalahandi'],['Odisha'],['Kalahandi'],True,True,True,True
+21,359,['Odisha'],['Kandhamal'],['Odisha'],['Kandhamal'],['Odisha'],['Kandhamal'],True,True,True,True
+21,360,['Odisha'],['Kendrapara'],['Odisha'],['Kendrapara'],['Odisha'],['Kendrapara'],True,True,True,True
+21,361,['Odisha'],['Kendujhar'],['Odisha'],['Kendujhar'],['Odisha'],['Keonjhar'],True,True,True,False
+21,362,['Odisha'],['Khordha'],['Odisha'],['Khordha'],['Odisha'],['Khordha'],True,True,True,True
+21,363,['Odisha'],['Koraput'],['Odisha'],['Koraput'],['Odisha'],['Koraput'],True,True,True,True
+21,364,['Odisha'],['Malkangiri'],['Odisha'],['Malkangiri'],['Odisha'],['Malkangiri'],True,True,True,True
+21,365,['Odisha'],['Mayurbhanj'],['Odisha'],['Mayurbhanj'],['Odisha'],['Mayurbhanj'],True,True,True,True
+21,366,['Odisha'],['Nabarangpur'],['Odisha'],['Nabarangpur'],['Odisha'],['Nabarangpur'],True,True,True,True
+21,367,['Odisha'],['Nayagarh'],['Odisha'],['Nayagarh'],['Odisha'],['Nayagarh'],True,True,True,True
+21,368,['Odisha'],['Nuapada'],['Odisha'],['Nuapada'],['Odisha'],['Nuapada'],True,True,True,True
+21,369,['Odisha'],['Puri'],['Odisha'],['Puri'],['Odisha'],['Puri'],True,True,True,True
+21,370,['Odisha'],['Rayagada'],['Odisha'],['Rayagada'],['Odisha'],['Rayagada'],True,True,True,True
+21,371,['Odisha'],['Sambalpur'],['Odisha'],['Sambalpur'],['Odisha'],['Sambalpur'],True,True,True,True
+21,372,['Odisha'],['Sonepur'],['Odisha'],['Sonepur'],['Odisha'],['Sonepur'],True,True,True,True
+21,373,['Odisha'],['Sundargarh'],['Odisha'],['Sundargarh'],['Odisha'],['Sundargarh'],True,True,True,True
+22,374,['Chhattisgarh'],['Bastar'],['Chhattisgarh'],['Bastar'],['Chhattisgarh'],['Bastar'],True,True,True,True
+22,375,['Chhattisgarh'],['Bilaspur'],['Chhattisgarh'],['Bilaspur'],['Chhattisgarh'],['Bilaspur'],True,True,True,True
+22,376,['Chhattisgarh'],['Dakshin Bastar Dantewada'],['Chhattisgarh'],['Dantewada'],['Chhattisgarh'],['Dakshin Bastar Dantewada'],True,True,True,False
+22,377,['Chhattisgarh'],['Dhamtari'],['Chhattisgarh'],['Dhamtari'],['Chhattisgarh'],['Dhamtari'],True,True,True,True
+22,378,['Chhattisgarh'],['Durg'],['Chhattisgarh'],['Durg'],['Chhattisgarh'],['Durg'],True,True,True,True
+22,379,['Chhattisgarh'],['Janjgir-Champa'],['Chhattisgarh'],['Janjgir-Champa'],['Chhattisgarh'],['Janjgir-Champa'],True,True,True,True
+22,380,['Chhattisgarh'],['Jashpur'],['Chhattisgarh'],['Jashpur'],['Chhattisgarh'],['Jashpur'],True,True,True,True
+22,381,['Chhattisgarh'],['Uttar Bastar Kanker'],['Chhattisgarh'],['Kanker'],['Chhattisgarh'],['Uttar Bastar Kanker'],True,True,True,False
+22,382,['Chhattisgarh'],['Kabeerdham'],['Chhattisgarh'],['Kabirdham'],['Chhattisgarh'],['Kabeerdham'],True,True,True,False
+22,383,['Chhattisgarh'],['Korba'],['Chhattisgarh'],['Korba'],['Chhattisgarh'],['Korba'],True,True,True,True
+22,384,['Chhattisgarh'],['Korea'],['Chhattisgarh'],['Korea'],['Chhattisgarh'],['Korea'],True,True,True,True
+22,385,['Chhattisgarh'],['Mahasamund'],['Chhattisgarh'],['Mahasamund'],['Chhattisgarh'],['Mahasamund'],True,True,True,True
+22,386,['Chhattisgarh'],['Raigarh'],['Chhattisgarh'],['Raigarh'],['Chhattisgarh'],['Raigarh'],True,True,True,True
+22,387,['Chhattisgarh'],['Raipur'],['Chhattisgarh'],['Raipur'],['Chhattisgarh'],['Raipur'],True,True,True,True
+22,388,['Chhattisgarh'],['Rajnandgaon'],['Chhattisgarh'],['Rajnandgaon'],['Chhattisgarh'],['Rajnandgaon'],True,True,True,True
+22,389,['Chhattisgarh'],['Surguja'],['Chhattisgarh'],['Surguja'],['Chhattisgarh'],['Surguja'],True,True,True,True
+22,636,,,['Chhattisgarh'],['Bijapur'],['Chhattisgarh'],['Bijapur'],False,True,True,True
+22,637,,,['Chhattisgarh'],['Narayanpur'],['Chhattisgarh'],['Narayanpur'],False,True,True,True
+22,642,,,,,['Chhattisgarh'],['Sukma'],False,False,True,
+22,643,,,,,['Chhattisgarh'],['Kondagaon'],False,False,True,
+22,644,,,,,['Chhattisgarh'],['Balodabazar-Bhatapara'],False,False,True,
+22,645,,,,,['Chhattisgarh'],['Gariyaband'],False,False,True,
+22,646,,,,,['Chhattisgarh'],['Balod'],False,False,True,
+22,647,,,,,['Chhattisgarh'],['Mungeli'],False,False,True,
+22,648,,,,,['Chhattisgarh'],['Surajpur'],False,False,True,
+22,649,,,,,['Chhattisgarh'],['Balrampur-Ramanujganj'],False,False,True,
+22,650,,,,,['Chhattisgarh'],['Bemetara'],False,False,True,
+22,734,,,,,['Chhattisgarh'],['Gaurela-Pendra-Marwahi'],False,False,True,
+22,759,,,,,['Chhattisgarh'],['Khairagarh-Chhuikhadan-Gandai'],False,False,True,
+22,760,,,,,['Chhattisgarh'],['Manendragarh-Chirmiri-Bharatpur(M C B)'],False,False,True,
+22,761,,,,,['Chhattisgarh'],['Mohla-Manpur-Ambagarh Chouki'],False,False,True,
+22,762,,,,,['Chhattisgarh'],['Sakti'],False,False,True,
+22,763,,,,,['Chhattisgarh'],['Sarangarh-Bilaigarh'],False,False,True,
+23,390,['Madhya Pradesh'],['Anuppur'],['Madhya Pradesh'],['Anuppur'],['Madhya Pradesh'],['Anuppur'],True,True,True,True
+23,391,['Madhya Pradesh'],['Ashoknagar'],['Madhya Pradesh'],['Ashoknagar'],['Madhya Pradesh'],['Ashoknagar'],True,True,True,True
+23,392,['Madhya Pradesh'],['Balaghat'],['Madhya Pradesh'],['Balaghat'],['Madhya Pradesh'],['Balaghat'],True,True,True,True
+23,393,['Madhya Pradesh'],['Barwani'],['Madhya Pradesh'],['Barwani'],['Madhya Pradesh'],['Barwani'],True,True,True,True
+23,394,['Madhya Pradesh'],['Betul'],['Madhya Pradesh'],['Betul'],['Madhya Pradesh'],['Betul'],True,True,True,True
+23,395,['Madhya Pradesh'],['Bhind'],['Madhya Pradesh'],['Bhind'],['Madhya Pradesh'],['Bhind'],True,True,True,True
+23,396,['Madhya Pradesh'],['Bhopal'],['Madhya Pradesh'],['Bhopal'],['Madhya Pradesh'],['Bhopal'],True,True,True,True
+23,397,['Madhya Pradesh'],['Burhanpur'],['Madhya Pradesh'],['Burhanpur'],['Madhya Pradesh'],['Burhanpur'],True,True,True,True
+23,398,['Madhya Pradesh'],['Chhatarpur'],['Madhya Pradesh'],['Chhatarpur'],['Madhya Pradesh'],['Chhatarpur'],True,True,True,True
+23,399,['Madhya Pradesh'],['Chhindwara'],['Madhya Pradesh'],['Chhindwara'],['Madhya Pradesh'],['Chhindwara'],True,True,True,True
+23,400,['Madhya Pradesh'],['Damoh'],['Madhya Pradesh'],['Damoh'],['Madhya Pradesh'],['Damoh'],True,True,True,True
+23,401,['Madhya Pradesh'],['Datia'],['Madhya Pradesh'],['Datia'],['Madhya Pradesh'],['Datia'],True,True,True,True
+23,402,['Madhya Pradesh'],['Dewas'],['Madhya Pradesh'],['Dewas'],['Madhya Pradesh'],['Dewas'],True,True,True,True
+23,403,['Madhya Pradesh'],['Dhar'],['Madhya Pradesh'],['Dhar'],['Madhya Pradesh'],['Dhar'],True,True,True,True
+23,404,['Madhya Pradesh'],['Dindori'],['Madhya Pradesh'],['Dindori'],['Madhya Pradesh'],['Dindori'],True,True,True,True
+23,405,['Madhya Pradesh'],['Khandwa (East Nimar)'],['Madhya Pradesh'],['East Nimar'],['Madhya Pradesh'],['Khandwa (East Nimar)'],True,True,True,False
+23,406,['Madhya Pradesh'],['Guna'],['Madhya Pradesh'],['Guna'],['Madhya Pradesh'],['Guna'],True,True,True,True
+23,407,['Madhya Pradesh'],['Gwalior'],['Madhya Pradesh'],['Gwalior'],['Madhya Pradesh'],['Gwalior'],True,True,True,True
+23,408,['Madhya Pradesh'],['Harda'],['Madhya Pradesh'],['Harda'],['Madhya Pradesh'],['Harda'],True,True,True,True
+23,409,['Madhya Pradesh'],['Narmadapuram'],['Madhya Pradesh'],['Narmadapuram'],['Madhya Pradesh'],['Narmadapuram'],True,True,True,True
+23,410,['Madhya Pradesh'],['Indore'],['Madhya Pradesh'],['Indore'],['Madhya Pradesh'],['Indore'],True,True,True,True
+23,411,['Madhya Pradesh'],['Jabalpur'],['Madhya Pradesh'],['Jabalpur'],['Madhya Pradesh'],['Jabalpur'],True,True,True,True
+23,412,['Madhya Pradesh'],['Jhabua'],['Madhya Pradesh'],['Jhabua'],['Madhya Pradesh'],['Jhabua'],True,True,True,True
+23,413,['Madhya Pradesh'],['Katni'],['Madhya Pradesh'],['Katni'],['Madhya Pradesh'],['Katni'],True,True,True,True
+23,414,['Madhya Pradesh'],['Khargone (West Nimar)'],['Madhya Pradesh'],['Khargone'],['Madhya Pradesh'],['Khargone (West Nimar)'],True,True,True,False
+23,415,['Madhya Pradesh'],['Mandla'],['Madhya Pradesh'],['Mandla'],['Madhya Pradesh'],['Mandla'],True,True,True,True
+23,416,['Madhya Pradesh'],['Mandsaur'],['Madhya Pradesh'],['Mandsaur'],['Madhya Pradesh'],['Mandsaur'],True,True,True,True
+23,417,['Madhya Pradesh'],['Morena'],['Madhya Pradesh'],['Morena'],['Madhya Pradesh'],['Morena'],True,True,True,True
+23,418,['Madhya Pradesh'],['Narsimhapur'],['Madhya Pradesh'],['Narsinghpur'],['Madhya Pradesh'],['Narsimhapur'],True,True,True,False
+23,419,['Madhya Pradesh'],['Neemuch'],['Madhya Pradesh'],['Neemuch'],['Madhya Pradesh'],['Neemuch'],True,True,True,True
+23,420,['Madhya Pradesh'],['Panna'],['Madhya Pradesh'],['Panna'],['Madhya Pradesh'],['Panna'],True,True,True,True
+23,421,['Madhya Pradesh'],['Raisen'],['Madhya Pradesh'],['Raisen'],['Madhya Pradesh'],['Raisen'],True,True,True,True
+23,422,['Madhya Pradesh'],['Rajgarh'],['Madhya Pradesh'],['Rajgarh'],['Madhya Pradesh'],['Rajgarh'],True,True,True,True
+23,423,['Madhya Pradesh'],['Ratlam'],['Madhya Pradesh'],['Ratlam'],['Madhya Pradesh'],['Ratlam'],True,True,True,True
+23,424,['Madhya Pradesh'],['Rewa'],['Madhya Pradesh'],['Rewa'],['Madhya Pradesh'],['Rewa'],True,True,True,True
+23,425,['Madhya Pradesh'],['Sagar'],['Madhya Pradesh'],['Sagar'],['Madhya Pradesh'],['Sagar'],True,True,True,True
+23,426,['Madhya Pradesh'],['Satna'],['Madhya Pradesh'],['Satna'],['Madhya Pradesh'],['Satna'],True,True,True,True
+23,427,['Madhya Pradesh'],['Sehore'],['Madhya Pradesh'],['Sehore'],['Madhya Pradesh'],['Sehore'],True,True,True,True
+23,428,['Madhya Pradesh'],['Seoni'],['Madhya Pradesh'],['Seoni'],['Madhya Pradesh'],['Seoni'],True,True,True,True
+23,429,['Madhya Pradesh'],['Shahdol'],['Madhya Pradesh'],['Shahdol'],['Madhya Pradesh'],['Shahdol'],True,True,True,True
+23,430,['Madhya Pradesh'],['Shajapur'],['Madhya Pradesh'],['Shajapur'],['Madhya Pradesh'],['Shajapur'],True,True,True,True
+23,431,['Madhya Pradesh'],['Sheopur'],['Madhya Pradesh'],['Sheopur'],['Madhya Pradesh'],['Sheopur'],True,True,True,True
+23,432,['Madhya Pradesh'],['Shivpuri'],['Madhya Pradesh'],['Shivpuri'],['Madhya Pradesh'],['Shivpuri'],True,True,True,True
+23,433,['Madhya Pradesh'],['Sidhi'],['Madhya Pradesh'],['Sidhi'],['Madhya Pradesh'],['Sidhi'],True,True,True,True
+23,434,['Madhya Pradesh'],['Tikamgarh'],['Madhya Pradesh'],['Tikamgarh'],['Madhya Pradesh'],['Tikamgarh'],True,True,True,True
+23,435,['Madhya Pradesh'],['Ujjain'],['Madhya Pradesh'],['Ujjain'],['Madhya Pradesh'],['Ujjain'],True,True,True,True
+23,436,['Madhya Pradesh'],['Umaria'],['Madhya Pradesh'],['Umaria'],['Madhya Pradesh'],['Umaria'],True,True,True,True
+23,437,['Madhya Pradesh'],['Vidisha'],['Madhya Pradesh'],['Vidisha'],['Madhya Pradesh'],['Vidisha'],True,True,True,True
+23,638,['Madhya Pradesh'],['Singrauli'],['Madhya Pradesh'],['Singrauli'],['Madhya Pradesh'],['Singrauli'],True,True,True,True
+23,639,['Madhya Pradesh'],['Alirajpur'],['Madhya Pradesh'],['Alirajpur'],['Madhya Pradesh'],['Alirajpur'],True,True,True,True
+23,667,,,,,['Madhya Pradesh'],['Agar-Malwa'],False,False,True,
+23,722,,,,,['Madhya Pradesh'],['Niwari'],False,False,True,
+24,438,['Gujarat'],['Ahmedabad'],['Gujarat'],['Ahmadabad'],['Gujarat'],['Ahmedabad'],True,True,True,False
+24,439,['Gujarat'],['Amreli'],['Gujarat'],['Amreli'],['Gujarat'],['Amreli'],True,True,True,True
+24,440,['Gujarat'],['Anand'],['Gujarat'],['Anand'],['Gujarat'],['Anand'],True,True,True,True
+24,441,['Gujarat'],['Banas Kantha'],['Gujarat'],['Banas Kantha'],['Gujarat'],['Banas Kantha'],True,True,True,True
+24,442,['Gujarat'],['Bharuch'],['Gujarat'],['Bharuch'],['Gujarat'],['Bharuch'],True,True,True,True
+24,443,['Gujarat'],['Bhavnagar'],['Gujarat'],['Bhavnagar'],['Gujarat'],['Bhavnagar'],True,True,True,True
+24,444,['Gujarat'],['Dangs'],['Gujarat'],['Dang'],['Gujarat'],['Dangs'],True,True,True,False
+24,445,['Gujarat'],['Dahod'],['Gujarat'],['Dohad'],['Gujarat'],['Dahod'],True,True,True,False
+24,446,['Gujarat'],['Gandhinagar'],['Gujarat'],['Gandhinagar'],['Gujarat'],['Gandhinagar'],True,True,True,True
+24,447,['Gujarat'],['Jamnagar'],['Gujarat'],['Jamnagar'],['Gujarat'],['Jamnagar'],True,True,True,True
+24,448,['Gujarat'],['Junagadh'],['Gujarat'],['Junagadh'],['Gujarat'],['Junagadh'],True,True,True,True
+24,449,['Gujarat'],['Kachchh'],['Gujarat'],['Kachchh'],['Gujarat'],['Kachchh'],True,True,True,True
+24,450,['Gujarat'],['Kheda'],['Gujarat'],['Kheda'],['Gujarat'],['Kheda'],True,True,True,True
+24,451,['Gujarat'],['Mahesana'],['Gujarat'],['Mahesana'],['Gujarat'],['Mahesana'],True,True,True,True
+24,452,['Gujarat'],['Narmada'],['Gujarat'],['Narmada'],['Gujarat'],['Narmada'],True,True,True,True
+24,453,['Gujarat'],['Navsari'],['Gujarat'],['Navsari'],['Gujarat'],['Navsari'],True,True,True,True
+24,454,['Gujarat'],['Panch Mahals'],['Gujarat'],['Panch Mahals'],['Gujarat'],['Panch Mahals'],True,True,True,True
+24,455,['Gujarat'],['Patan'],['Gujarat'],['Patan'],['Gujarat'],['Patan'],True,True,True,True
+24,456,['Gujarat'],['Porbandar'],['Gujarat'],['Porbandar'],['Gujarat'],['Porbandar'],True,True,True,True
+24,457,['Gujarat'],['Rajkot'],['Gujarat'],['Rajkot'],['Gujarat'],['Rajkot'],True,True,True,True
+24,458,['Gujarat'],['Sabar Kantha'],['Gujarat'],['Sabar Kantha'],['Gujarat'],['Sabar Kantha'],True,True,True,True
+24,459,['Gujarat'],['Surat'],['Gujarat'],['Surat'],['Gujarat'],['Surat'],True,True,True,True
+24,460,['Gujarat'],['Surendranagar'],['Gujarat'],['Surendranagar'],['Gujarat'],['Surendranagar'],True,True,True,True
+24,461,['Gujarat'],['Vadodara'],['Gujarat'],['Vadodara'],['Gujarat'],['Vadodara'],True,True,True,True
+24,462,['Gujarat'],['Valsad'],['Gujarat'],['Valsad'],['Gujarat'],['Valsad'],True,True,True,True
+24,641,['Gujarat'],['Tapi'],['Gujarat'],['Tapi'],['Gujarat'],['Tapi'],True,True,True,True
+24,668,,,,,['Gujarat'],['Chhotaudepur'],False,False,True,
+24,669,,,,,['Gujarat'],['Mahisagar'],False,False,True,
+24,672,,,,,['Gujarat'],['Arvalli'],False,False,True,
+24,673,,,,,['Gujarat'],['Morbi'],False,False,True,
+24,674,,,,,['Gujarat'],['Devbhumi Dwarka'],False,False,True,
+24,675,,,,,['Gujarat'],['Gir Somnath'],False,False,True,
+24,676,,,,,['Gujarat'],['Botad'],False,False,True,
+27,466,['Maharashtra'],['Ahmednagar'],['Maharashtra'],['Ahmednagar'],['Maharashtra'],['Ahilyanagar'],True,True,True,False
+27,467,['Maharashtra'],['Akola'],['Maharashtra'],['Akola'],['Maharashtra'],['Akola'],True,True,True,True
+27,468,['Maharashtra'],['Amravati'],['Maharashtra'],['Amravati'],['Maharashtra'],['Amravati'],True,True,True,True
+27,469,['Maharashtra'],['Chhatrapati Sambhajinagar'],['Maharashtra'],['Aurangabad'],['Maharashtra'],['Chhatrapati Sambhajinagar'],True,True,True,False
+27,470,['Maharashtra'],['Beed'],['Maharashtra'],['Beed'],['Maharashtra'],['Beed'],True,True,True,True
+27,471,['Maharashtra'],['Bhandara'],['Maharashtra'],['Bhandara'],['Maharashtra'],['Bhandara'],True,True,True,True
+27,472,['Maharashtra'],['Buldhana'],['Maharashtra'],['Buldhana'],['Maharashtra'],['Buldhana'],True,True,True,True
+27,473,['Maharashtra'],['Chandrapur'],['Maharashtra'],['Chandrapur'],['Maharashtra'],['Chandrapur'],True,True,True,True
+27,474,['Maharashtra'],['Dhule'],['Maharashtra'],['Dhule'],['Maharashtra'],['Dhule'],True,True,True,True
+27,475,['Maharashtra'],['Gadchiroli'],['Maharashtra'],['Gadchiroli'],['Maharashtra'],['Gadchiroli'],True,True,True,True
+27,476,['Maharashtra'],['Gondia'],['Maharashtra'],['Gondia'],['Maharashtra'],['Gondia'],True,True,True,True
+27,477,['Maharashtra'],['Hingoli'],['Maharashtra'],['Hingoli'],['Maharashtra'],['Hingoli'],True,True,True,True
+27,478,['Maharashtra'],['Jalgaon'],['Maharashtra'],['Jalgaon'],['Maharashtra'],['Jalgaon'],True,True,True,True
+27,479,['Maharashtra'],['Jalna'],['Maharashtra'],['Jalna'],['Maharashtra'],['Jalna'],True,True,True,True
+27,480,['Maharashtra'],['Kolhapur'],['Maharashtra'],['Kolhapur'],['Maharashtra'],['Kolhapur'],True,True,True,True
+27,481,['Maharashtra'],['Latur'],['Maharashtra'],['Latur'],['Maharashtra'],['Latur'],True,True,True,True
+27,482,['Maharashtra'],['Mumbai'],['Maharashtra'],['Mumbai'],['Maharashtra'],['Mumbai'],True,True,True,True
+27,483,['Maharashtra'],['Mumbai Suburban'],['Maharashtra'],['Mumbai Suburban'],['Maharashtra'],['Mumbai Suburban'],True,True,True,True
+27,484,['Maharashtra'],['Nagpur'],['Maharashtra'],['Nagpur'],['Maharashtra'],['Nagpur'],True,True,True,True
+27,485,['Maharashtra'],['Nanded'],['Maharashtra'],['Nanded'],['Maharashtra'],['Nanded'],True,True,True,True
+27,486,['Maharashtra'],['Nandurbar'],['Maharashtra'],['Nandurbar'],['Maharashtra'],['Nandurbar'],True,True,True,True
+27,487,['Maharashtra'],['Nashik'],['Maharashtra'],['Nashik'],['Maharashtra'],['Nashik'],True,True,True,True
+27,488,['Maharashtra'],['Dharashiv'],['Maharashtra'],['Osmanabad'],['Maharashtra'],['Dharashiv'],True,True,True,False
+27,489,['Maharashtra'],['Parbhani'],['Maharashtra'],['Parbhani'],['Maharashtra'],['Parbhani'],True,True,True,True
+27,490,['Maharashtra'],['Pune'],['Maharashtra'],['Pune'],['Maharashtra'],['Pune'],True,True,True,True
+27,491,['Maharashtra'],['Raigad'],['Maharashtra'],['Raigad'],['Maharashtra'],['Raigad'],True,True,True,True
+27,492,['Maharashtra'],['Ratnagiri'],['Maharashtra'],['Ratnagiri'],['Maharashtra'],['Ratnagiri'],True,True,True,True
+27,493,['Maharashtra'],['Sangli'],['Maharashtra'],['Sangli'],['Maharashtra'],['Sangli'],True,True,True,True
+27,494,['Maharashtra'],['Satara'],['Maharashtra'],['Satara'],['Maharashtra'],['Satara'],True,True,True,True
+27,495,['Maharashtra'],['Sindhudurg'],['Maharashtra'],['Sindhudurg'],['Maharashtra'],['Sindhudurg'],True,True,True,True
+27,496,['Maharashtra'],['Solapur'],['Maharashtra'],['Solapur'],['Maharashtra'],['Solapur'],True,True,True,True
+27,497,['Maharashtra'],['Thane'],['Maharashtra'],['Thane'],['Maharashtra'],['Thane'],True,True,True,True
+27,498,['Maharashtra'],['Wardha'],['Maharashtra'],['Wardha'],['Maharashtra'],['Wardha'],True,True,True,True
+27,499,['Maharashtra'],['Washim'],['Maharashtra'],['Washim'],['Maharashtra'],['Washim'],True,True,True,True
+27,500,['Maharashtra'],['Yavatmal'],['Maharashtra'],['Yavatmal'],['Maharashtra'],['Yavatmal'],True,True,True,True
+27,665,,,,,['Maharashtra'],['Palghar'],False,False,True,
+28,502,['Andhra Pradesh'],['Ananthapuramu'],['Andhra Pradesh'],['Anantapur'],['Andhra Pradesh'],['Ananthapuramu'],True,True,True,False
+28,503,['Andhra Pradesh'],['Chittoor'],['Andhra Pradesh'],['Chittoor'],['Andhra Pradesh'],['Chittoor'],True,True,True,True
+28,504,['Andhra Pradesh'],['Y.S.R.'],['Andhra Pradesh'],['Y.S.R.'],['Andhra Pradesh'],['Y.S.R. Kadapa'],True,True,True,False
+28,505,['Andhra Pradesh'],['East Godavari'],['Andhra Pradesh'],['East Godavari'],['Andhra Pradesh'],['East Godavari'],True,True,True,True
+28,506,['Andhra Pradesh'],['Guntur'],['Andhra Pradesh'],['Guntur'],['Andhra Pradesh'],['Guntur'],True,True,True,True
+28,510,['Andhra Pradesh'],['Krishna'],['Andhra Pradesh'],['Krishna'],['Andhra Pradesh'],['Krishna'],True,True,True,True
+28,511,['Andhra Pradesh'],['Kurnool'],['Andhra Pradesh'],['Kurnool'],['Andhra Pradesh'],['Kurnool'],True,True,True,True
+28,515,['Andhra Pradesh'],['Sri Potti Sriramulu Nellore'],['Andhra Pradesh'],['Spsr Nellore'],['Andhra Pradesh'],['Sri Potti Sriramulu Nellore'],True,True,True,False
+28,517,['Andhra Pradesh'],['Prakasam'],['Andhra Pradesh'],['Prakasam'],['Andhra Pradesh'],['Prakasam'],True,True,True,True
+28,519,['Andhra Pradesh'],['Srikakulam'],['Andhra Pradesh'],['Srikakulam'],['Andhra Pradesh'],['Srikakulam'],True,True,True,True
+28,520,['Andhra Pradesh'],['Visakhapatnam'],['Andhra Pradesh'],['Visakhapatanam'],['Andhra Pradesh'],['Visakhapatnam'],True,True,True,False
+28,521,['Andhra Pradesh'],['Vizianagaram'],['Andhra Pradesh'],['Vizianagaram'],['Andhra Pradesh'],['Vizianagaram'],True,True,True,True
+28,523,['Andhra Pradesh'],['West Godavari'],['Andhra Pradesh'],['West Godavari'],['Andhra Pradesh'],['West Godavari'],True,True,True,True
+28,743,,,,,['Andhra Pradesh'],['Parvathipuram Manyam'],False,False,True,
+28,744,,,,,['Andhra Pradesh'],['Anakapalli'],False,False,True,
+28,745,,,,,['Andhra Pradesh'],['Alluri Sitharama Raju'],False,False,True,
+28,746,,,,,['Andhra Pradesh'],['Kakinada'],False,False,True,
+28,747,,,,,['Andhra Pradesh'],['Dr. B.R. Ambedkar Konaseema'],False,False,True,
+28,748,,,,,['Andhra Pradesh'],['Eluru'],False,False,True,
+28,749,,,,,['Andhra Pradesh'],['Ntr'],False,False,True,
+28,750,,,,,['Andhra Pradesh'],['Bapatla'],False,False,True,
+28,751,,,,,['Andhra Pradesh'],['Palnadu'],False,False,True,
+28,752,,,,,['Andhra Pradesh'],['Tirupati'],False,False,True,
+28,753,,,,,['Andhra Pradesh'],['Annamayya'],False,False,True,
+28,754,,,,,['Andhra Pradesh'],['Sri Sathya Sai'],False,False,True,
+28,755,,,,,['Andhra Pradesh'],['Nandyal'],False,False,True,
+29,524,['Karnataka'],['Bagalkote'],['Karnataka'],['Bagalkote'],['Karnataka'],['Bagalkote'],True,True,True,True
+29,525,['Karnataka'],['Bengaluru Urban'],['Karnataka'],['Bengaluru Urban'],['Karnataka'],['Bengaluru Urban'],True,True,True,True
+29,526,['Karnataka'],['Bengaluru Rural'],['Karnataka'],['Bengaluru Rural'],['Karnataka'],['Bengaluru Rural'],True,True,True,True
+29,527,['Karnataka'],['Belagavi'],['Karnataka'],['Belagavi'],['Karnataka'],['Belagavi'],True,True,True,True
+29,528,['Karnataka'],['Ballari'],['Karnataka'],['Ballari'],['Karnataka'],['Ballari'],True,True,True,True
+29,529,['Karnataka'],['Bidar'],['Karnataka'],['Bidar'],['Karnataka'],['Bidar'],True,True,True,True
+29,530,['Karnataka'],['Vijayapura'],['Karnataka'],['Vijayapura'],['Karnataka'],['Vijayapura'],True,True,True,True
+29,531,['Karnataka'],['Chamarajanagara'],['Karnataka'],['Chamarajanagara'],['Karnataka'],['Chamarajanagar'],True,True,True,False
+29,532,['Karnataka'],['Chikkamagaluru'],['Karnataka'],['Chikkamagaluru'],['Karnataka'],['Chikkamagaluru'],True,True,True,True
+29,533,['Karnataka'],['Chitradurga'],['Karnataka'],['Chitradurga'],['Karnataka'],['Chitradurga'],True,True,True,True
+29,534,['Karnataka'],['Dakshina Kannada'],['Karnataka'],['Dakshina Kannada'],['Karnataka'],['Dakshina Kannada'],True,True,True,True
+29,535,['Karnataka'],['Davangere'],['Karnataka'],['Davangere'],['Karnataka'],['Davanagere'],True,True,True,False
+29,536,['Karnataka'],['Dharwad'],['Karnataka'],['Dharwad'],['Karnataka'],['Dharwad'],True,True,True,True
+29,537,['Karnataka'],['Gadag'],['Karnataka'],['Gadag'],['Karnataka'],['Gadag'],True,True,True,True
+29,538,['Karnataka'],['Kalaburagi'],['Karnataka'],['Kalaburagi'],['Karnataka'],['Kalaburagi'],True,True,True,True
+29,539,['Karnataka'],['Hassan'],['Karnataka'],['Hassan'],['Karnataka'],['Hassan'],True,True,True,True
+29,540,['Karnataka'],['Haveri'],['Karnataka'],['Haveri'],['Karnataka'],['Haveri'],True,True,True,True
+29,541,['Karnataka'],['Kodagu'],['Karnataka'],['Kodagu'],['Karnataka'],['Kodagu'],True,True,True,True
+29,542,['Karnataka'],['Kolar'],['Karnataka'],['Kolar'],['Karnataka'],['Kolar'],True,True,True,True
+29,543,['Karnataka'],['Koppal'],['Karnataka'],['Koppal'],['Karnataka'],['Koppal'],True,True,True,True
+29,544,['Karnataka'],['Mandya'],['Karnataka'],['Mandya'],['Karnataka'],['Mandya'],True,True,True,True
+29,545,['Karnataka'],['Mysuru'],['Karnataka'],['Mysuru'],['Karnataka'],['Mysuru'],True,True,True,True
+29,546,['Karnataka'],['Raichur'],['Karnataka'],['Raichur'],['Karnataka'],['Raichur'],True,True,True,True
+29,547,['Karnataka'],['Shivamogga'],['Karnataka'],['Shivamogga'],['Karnataka'],['Shivamogga'],True,True,True,True
+29,548,['Karnataka'],['Tumakuru'],['Karnataka'],['Tumakuru'],['Karnataka'],['Tumakuru'],True,True,True,True
+29,549,['Karnataka'],['Udupi'],['Karnataka'],['Udupi'],['Karnataka'],['Udupi'],True,True,True,True
+29,550,['Karnataka'],['Uttara Kannada'],['Karnataka'],['Uttara Kannada'],['Karnataka'],['Uttara Kannada'],True,True,True,True
+29,630,['Karnataka'],['Chikkaballapura'],['Karnataka'],['Chikkaballapura'],['Karnataka'],['Chikkaballapura'],True,True,True,True
+29,631,['Karnataka'],['Ramanagara'],['Karnataka'],['Ramanagara'],['Karnataka'],['Bengaluru South'],True,True,True,False
+29,635,['Karnataka'],['Yadgir'],['Karnataka'],['Yadgir'],['Karnataka'],['Yadgir'],True,True,True,True
+29,738,,,,,['Karnataka'],['Vijayanagara'],False,False,True,
+30,551,['Goa'],['North Goa'],['Goa'],['North Goa'],['Goa'],['North Goa'],True,True,True,True
+30,552,['Goa'],['South Goa'],['Goa'],['South Goa'],['Goa'],['South Goa'],True,True,True,True
+31,553,,,['Lakshadweep'],['Lakshadweep District'],,,False,True,False,
+32,554,['Kerala'],['Alappuzha'],['Kerala'],['Alappuzha'],['Kerala'],['Alappuzha'],True,True,True,True
+32,555,['Kerala'],['Ernakulam'],['Kerala'],['Ernakulam'],['Kerala'],['Ernakulam'],True,True,True,True
+32,556,['Kerala'],['Idukki'],['Kerala'],['Idukki'],['Kerala'],['Idukki'],True,True,True,True
+32,557,['Kerala'],['Kannur'],['Kerala'],['Kannur'],['Kerala'],['Kannur'],True,True,True,True
+32,558,['Kerala'],['Kasaragod'],['Kerala'],['Kasaragod'],['Kerala'],['Kasaragod'],True,True,True,True
+32,559,['Kerala'],['Kollam'],['Kerala'],['Kollam'],['Kerala'],['Kollam'],True,True,True,True
+32,560,['Kerala'],['Kottayam'],['Kerala'],['Kottayam'],['Kerala'],['Kottayam'],True,True,True,True
+32,561,['Kerala'],['Kozhikode'],['Kerala'],['Kozhikode'],['Kerala'],['Kozhikode'],True,True,True,True
+32,562,['Kerala'],['Malappuram'],['Kerala'],['Malappuram'],['Kerala'],['Malappuram'],True,True,True,True
+32,563,['Kerala'],['Palakkad'],['Kerala'],['Palakkad'],['Kerala'],['Palakkad'],True,True,True,True
+32,564,['Kerala'],['Pathanamthitta'],['Kerala'],['Pathanamthitta'],['Kerala'],['Pathanamthitta'],True,True,True,True
+32,565,['Kerala'],['Thiruvananthapuram'],['Kerala'],['Thiruvananthapuram'],['Kerala'],['Thiruvananthapuram'],True,True,True,True
+32,566,['Kerala'],['Thrissur'],['Kerala'],['Thrissur'],['Kerala'],['Thrissur'],True,True,True,True
+32,567,['Kerala'],['Wayanad'],['Kerala'],['Wayanad'],['Kerala'],['Wayanad'],True,True,True,True
+33,568,['Tamil Nadu'],['Chennai'],['Tamil Nadu'],['Chennai'],['Tamil Nadu'],['Chennai'],True,True,True,True
+33,569,['Tamil Nadu'],['Coimbatore'],['Tamil Nadu'],['Coimbatore'],['Tamil Nadu'],['Coimbatore'],True,True,True,True
+33,570,['Tamil Nadu'],['Cuddalore'],['Tamil Nadu'],['Cuddalore'],['Tamil Nadu'],['Cuddalore'],True,True,True,True
+33,571,['Tamil Nadu'],['Dharmapuri'],['Tamil Nadu'],['Dharmapuri'],['Tamil Nadu'],['Dharmapuri'],True,True,True,True
+33,572,['Tamil Nadu'],['Dindigul'],['Tamil Nadu'],['Dindigul'],['Tamil Nadu'],['Dindigul'],True,True,True,True
+33,573,['Tamil Nadu'],['Erode'],['Tamil Nadu'],['Erode'],['Tamil Nadu'],['Erode'],True,True,True,True
+33,574,['Tamil Nadu'],['Kancheepuram'],['Tamil Nadu'],['Kanchipuram'],['Tamil Nadu'],['Kancheepuram'],True,True,True,False
+33,575,['Tamil Nadu'],['Kanniyakumari'],['Tamil Nadu'],['Kanniyakumari'],['Tamil Nadu'],['Kanniyakumari'],True,True,True,True
+33,576,['Tamil Nadu'],['Karur'],['Tamil Nadu'],['Karur'],['Tamil Nadu'],['Karur'],True,True,True,True
+33,577,['Tamil Nadu'],['Krishnagiri'],['Tamil Nadu'],['Krishnagiri'],['Tamil Nadu'],['Krishnagiri'],True,True,True,True
+33,578,['Tamil Nadu'],['Madurai'],['Tamil Nadu'],['Madurai'],['Tamil Nadu'],['Madurai'],True,True,True,True
+33,579,['Tamil Nadu'],['Nagapattinam'],['Tamil Nadu'],['Nagapattinam'],['Tamil Nadu'],['Nagapattinam'],True,True,True,True
+33,580,['Tamil Nadu'],['Namakkal'],['Tamil Nadu'],['Namakkal'],['Tamil Nadu'],['Namakkal'],True,True,True,True
+33,581,['Tamil Nadu'],['Perambalur'],['Tamil Nadu'],['Perambalur'],['Tamil Nadu'],['Perambalur'],True,True,True,True
+33,582,['Tamil Nadu'],['Pudukkottai'],['Tamil Nadu'],['Pudukkottai'],['Tamil Nadu'],['Pudukkottai'],True,True,True,True
+33,583,['Tamil Nadu'],['Ramanathapuram'],['Tamil Nadu'],['Ramanathapuram'],['Tamil Nadu'],['Ramanathapuram'],True,True,True,True
+33,584,['Tamil Nadu'],['Salem'],['Tamil Nadu'],['Salem'],['Tamil Nadu'],['Salem'],True,True,True,True
+33,585,['Tamil Nadu'],['Sivaganga'],['Tamil Nadu'],['Sivaganga'],['Tamil Nadu'],['Sivaganga'],True,True,True,True
+33,586,['Tamil Nadu'],['Thanjavur'],['Tamil Nadu'],['Thanjavur'],['Tamil Nadu'],['Thanjavur'],True,True,True,True
+33,587,['Tamil Nadu'],['The Nilgiris'],['Tamil Nadu'],['The Nilgiris'],['Tamil Nadu'],['The Nilgiris'],True,True,True,True
+33,588,['Tamil Nadu'],['Theni'],['Tamil Nadu'],['Theni'],['Tamil Nadu'],['Theni'],True,True,True,True
+33,589,['Tamil Nadu'],['Thiruvallur'],['Tamil Nadu'],['Thiruvallur'],['Tamil Nadu'],['Thiruvallur'],True,True,True,True
+33,590,['Tamil Nadu'],['Thiruvarur'],['Tamil Nadu'],['Thiruvarur'],['Tamil Nadu'],['Thiruvarur'],True,True,True,True
+33,591,['Tamil Nadu'],['Tiruchirappalli'],['Tamil Nadu'],['Tiruchirappalli'],['Tamil Nadu'],['Tiruchirappalli'],True,True,True,True
+33,592,['Tamil Nadu'],['Tirunelveli'],['Tamil Nadu'],['Tirunelveli'],['Tamil Nadu'],['Tirunelveli'],True,True,True,True
+33,593,['Tamil Nadu'],['Tiruvannamalai'],['Tamil Nadu'],['Tiruvannamalai'],['Tamil Nadu'],['Tiruvannamalai'],True,True,True,True
+33,594,['Tamil Nadu'],['Thoothukkudi'],['Tamil Nadu'],['Tuticorin'],['Tamil Nadu'],['Thoothukkudi'],True,True,True,False
+33,595,['Tamil Nadu'],['Vellore'],['Tamil Nadu'],['Vellore'],['Tamil Nadu'],['Vellore'],True,True,True,True
+33,596,['Tamil Nadu'],['Viluppuram'],['Tamil Nadu'],['Villupuram'],['Tamil Nadu'],['Viluppuram'],True,True,True,False
+33,597,['Tamil Nadu'],['Virudhunagar'],['Tamil Nadu'],['Virudhunagar'],['Tamil Nadu'],['Virudhunagar'],True,True,True,True
+33,610,['Tamil Nadu'],['Ariyalur'],['Tamil Nadu'],['Ariyalur'],['Tamil Nadu'],['Ariyalur'],True,True,True,True
+33,634,['Tamil Nadu'],['Tiruppur'],['Tamil Nadu'],['Tiruppur'],['Tamil Nadu'],['Tiruppur'],True,True,True,True
+33,729,,,,,['Tamil Nadu'],['Kallakurichi'],False,False,True,
+33,730,,,,,['Tamil Nadu'],['Chengalpattu'],False,False,True,
+33,731,,,,,['Tamil Nadu'],['Ranipet'],False,False,True,
+33,732,,,,,['Tamil Nadu'],['Tirupathur'],False,False,True,
+33,733,,,,,['Tamil Nadu'],['Tenkasi'],False,False,True,
+33,735,,,,,['Tamil Nadu'],['Mayiladuthurai'],False,False,True,
+34,598,['Puducherry'],['Karaikal'],['Puducherry'],['Karaikal'],['Puducherry'],['Karaikal'],True,True,True,True
+34,599,,,['Puducherry'],['Mahe'],,,False,True,False,
+34,600,['Puducherry'],['Pondicherry'],['Puducherry'],['Pondicherry'],['Puducherry'],['Puducherry'],True,True,True,False
+34,601,['Puducherry'],['Yanam'],['Puducherry'],['Yanam'],,,True,True,False,True
+35,602,['Andaman And Nicobar Islands'],['South Andamans'],['Andaman And Nicobar Islands'],['South Andamans'],['Andaman And Nicobar Islands'],['South Andamans'],True,True,True,True
+35,603,,,['Andaman And Nicobar Islands'],['Nicobars'],['Andaman And Nicobar Islands'],['Nicobars'],False,True,True,True
+35,632,['Andaman And Nicobar Islands'],['North And Middle Andaman'],['Andaman And Nicobar Islands'],['North And Middle Andaman'],['Andaman And Nicobar Islands'],['North And Middle Andaman'],True,True,True,True
+36,501,['Telangana'],['Adilabad'],['Telangana'],['Adilabad'],['Telangana'],['Adilabad'],True,True,True,True
+36,507,['Telangana'],['Hyderabad'],['Telangana'],['Hyderabad'],['Telangana'],['Hyderabad'],True,True,True,True
+36,508,['Telangana'],['Karimnagar'],['Telangana'],['Karimnagar'],['Telangana'],['Karimnagar'],True,True,True,True
+36,509,['Telangana'],['Khammam'],['Telangana'],['Khammam'],['Telangana'],['Khammam'],True,True,True,True
+36,512,['Telangana'],['Mahabubnagar'],['Telangana'],['Mahabubnagar'],['Telangana'],['Mahabubnagar'],True,True,True,True
+36,513,['Telangana'],['Medak'],['Telangana'],['Medak'],['Telangana'],['Medak'],True,True,True,True
+36,514,['Telangana'],['Nalgonda'],['Telangana'],['Nalgonda'],['Telangana'],['Nalgonda'],True,True,True,True
+36,516,['Telangana'],['Nizamabad'],['Telangana'],['Nizamabad'],['Telangana'],['Nizamabad'],True,True,True,True
+36,518,['Telangana'],['Ranga Reddy'],['Telangana'],['Ranga Reddy'],['Telangana'],['Ranga Reddy'],True,True,True,True
+36,522,['Telangana'],['Warangal'],['Telangana'],['Warangal'],['Telangana'],['Warangal'],True,True,True,True
+36,680,,,,,['Telangana'],['Nirmal'],False,False,True,
+36,681,,,,,['Telangana'],['Jagitial'],False,False,True,
+36,682,,,,,['Telangana'],['Peddapalli'],False,False,True,
+36,683,,,,,['Telangana'],['Rajanna Sircilla'],False,False,True,
+36,684,,,,,['Telangana'],['Mancherial'],False,False,True,
+36,685,,,,,['Telangana'],['Kamareddy'],False,False,True,
+36,686,,,,,['Telangana'],['Hanumakonda'],False,False,True,
+36,687,,,,,['Telangana'],['Jayashankar Bhupalapally'],False,False,True,
+36,688,,,,,['Telangana'],['Mahabubabad'],False,False,True,
+36,689,,,,,['Telangana'],['Jangoan'],False,False,True,
+36,690,,,,,['Telangana'],['Bhadradri Kothagudem'],False,False,True,
+36,691,,,,,['Telangana'],['Sangareddy'],False,False,True,
+36,692,,,,,['Telangana'],['Siddipet'],False,False,True,
+36,693,,,,,['Telangana'],['Wanaparthy'],False,False,True,
+36,694,,,,,['Telangana'],['Nagarkurnool'],False,False,True,
+36,695,,,,,['Telangana'],['Jogulamba Gadwal'],False,False,True,
+36,696,,,,,['Telangana'],['Suryapet'],False,False,True,
+36,697,,,,,['Telangana'],['Yadadri Bhuvanagiri'],False,False,True,
+36,698,,,,,['Telangana'],['Vikarabad'],False,False,True,
+36,699,,,,,['Telangana'],['Kumuram Bheem Asifabad'],False,False,True,
+36,700,,,,,['Telangana'],['Medchal Malkajgiri'],False,False,True,
+36,720,,,,,['Telangana'],['Mulugu'],False,False,True,
+36,721,,,,,['Telangana'],['Narayanpet'],False,False,True,
+37,6,,,['Ladakh'],['Kargil'],['Ladakh'],['Kargil'],False,True,True,True
+37,9,,,['Ladakh'],['Leh Ladakh'],['Ladakh'],['Leh Ladakh'],False,True,True,True
+38,463,['The Dadra And Nagar Haveli And Daman And Diu'],['Daman'],['The Dadra And Nagar Haveli And Daman And Diu'],['Daman'],['The Dadra And Nagar Haveli And Daman And Diu'],['Daman'],True,True,True,True
+38,464,['The Dadra And Nagar Haveli And Daman And Diu'],['Diu'],['The Dadra And Nagar Haveli And Daman And Diu'],['Diu'],['The Dadra And Nagar Haveli And Daman And Diu'],['Diu'],True,True,True,True
+38,465,['The Dadra And Nagar Haveli And Daman And Diu'],['Dadra And Nagar Haveli'],['The Dadra And Nagar Haveli And Daman And Diu'],['Dadra And Nagar Haveli'],['The Dadra And Nagar Haveli And Daman And Diu'],['Dadra And Nagar Haveli'],True,True,True,True

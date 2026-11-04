@@ -1,0 +1,629 @@
+state_name,district_name,Total_Records,Missing_Actual,Missing_Percentage
+Andaman And Nicobar Islands,Nicobars,5691,5691,100.0
+Andaman And Nicobar Islands,North And Middle Andaman,5691,5691,100.0
+Lakshadweep,Lakshadweep District,5691,5691,100.0
+Jammu And Kashmir,Rajouri,5691,5691,100.0
+Jammu And Kashmir,Samba,5691,5691,100.0
+Andaman And Nicobar Islands,South Andamans,5691,5691,100.0
+Gujarat,Porbandar,5691,171,3.0
+Andhra Pradesh,Chittoor,5691,170,2.99
+Andhra Pradesh,East Godavari,5691,170,2.99
+Andhra Pradesh,Guntur,5691,170,2.99
+Andhra Pradesh,Krishna,5691,170,2.99
+Andhra Pradesh,Kurnool,5691,170,2.99
+Andhra Pradesh,Prakasam,5691,170,2.99
+Andhra Pradesh,Spsr Nellore,5691,170,2.99
+Andhra Pradesh,Srikakulam,5691,170,2.99
+Andhra Pradesh,Visakhapatanam,5691,170,2.99
+Andhra Pradesh,Vizianagaram,5691,170,2.99
+Andhra Pradesh,West Godavari,5691,170,2.99
+Andhra Pradesh,Y.S.R.,5691,170,2.99
+Arunachal Pradesh,Anjaw,5691,170,2.99
+Arunachal Pradesh,Changlang,5691,170,2.99
+Arunachal Pradesh,Dibang Valley,5691,170,2.99
+Arunachal Pradesh,East Kameng,5691,170,2.99
+Arunachal Pradesh,Kurung Kumey,5691,170,2.99
+Arunachal Pradesh,Lohit,5691,170,2.99
+Arunachal Pradesh,Lower Dibang Valley,5691,170,2.99
+Arunachal Pradesh,Lower Subansiri,5691,170,2.99
+Arunachal Pradesh,Papum Pare,5691,170,2.99
+Arunachal Pradesh,Tawang,5691,170,2.99
+Arunachal Pradesh,Tirap,5691,170,2.99
+Arunachal Pradesh,Upper Siang,5691,170,2.99
+Arunachal Pradesh,Upper Subansiri,5691,170,2.99
+Arunachal Pradesh,West Kameng,5691,170,2.99
+Arunachal Pradesh,West Siang,5691,170,2.99
+Assam,Baksa,5691,170,2.99
+Assam,Barpeta,5691,170,2.99
+Assam,Bongaigaon,5691,170,2.99
+Assam,Cachar,5691,170,2.99
+Uttarakhand,Almora,5691,170,2.99
+Assam,Darrang,5691,170,2.99
+Assam,Dhemaji,5691,170,2.99
+Assam,Dhubri,5691,170,2.99
+Assam,Dibrugarh,5691,170,2.99
+Assam,Dima Hasao,5691,170,2.99
+Assam,Goalpara,5691,170,2.99
+Assam,Golaghat,5691,170,2.99
+Assam,Hailakandi,5691,170,2.99
+Assam,Jorhat,5691,170,2.99
+Assam,Kamrup,5691,170,2.99
+Assam,Kamrup Metro,5691,170,2.99
+Assam,Karbi Anglong,5691,170,2.99
+Assam,Karimganj,5691,170,2.99
+Assam,Kokrajhar,5691,170,2.99
+Assam,Lakhimpur,5691,170,2.99
+Arunachal Pradesh,East Siang,5691,170,2.99
+Assam,Nagaon,5691,170,2.99
+Assam,Nalbari,5691,170,2.99
+Assam,Sivasagar,5691,170,2.99
+Assam,Sonitpur,5691,170,2.99
+Assam,Tinsukia,5691,170,2.99
+Assam,Udalguri,5691,170,2.99
+Bihar,Araria,5691,170,2.99
+Bihar,Arwal,5691,170,2.99
+Bihar,Aurangabad,5691,170,2.99
+Bihar,Banka,5691,170,2.99
+Bihar,Begusarai,5691,170,2.99
+Bihar,Bhagalpur,5691,170,2.99
+Bihar,Bhojpur,5691,170,2.99
+Bihar,Buxar,5691,170,2.99
+Bihar,Darbhanga,5691,170,2.99
+Assam,Chirang,5691,170,2.99
+Bihar,Gopalganj,5691,170,2.99
+Bihar,Jamui,5691,170,2.99
+Bihar,Jehanabad,5691,170,2.99
+Bihar,Kaimur (Bhabua),5691,170,2.99
+Bihar,Katihar,5691,170,2.99
+Bihar,Khagaria,5691,170,2.99
+Bihar,Kishanganj,5691,170,2.99
+Bihar,Lakhisarai,5691,170,2.99
+Bihar,Madhepura,5691,170,2.99
+Bihar,Madhubani,5691,170,2.99
+Bihar,Munger,5691,170,2.99
+Bihar,Muzaffarpur,5691,170,2.99
+Bihar,Nalanda,5691,170,2.99
+Bihar,Nawada,5691,170,2.99
+Bihar,Pashchim Champaran,5691,170,2.99
+Assam,Marigaon,5691,170,2.99
+Bihar,Purbi Champaran,5691,170,2.99
+Bihar,Purnia,5691,170,2.99
+Bihar,Rohtas,5691,170,2.99
+Bihar,Saharsa,5691,170,2.99
+Bihar,Samastipur,5691,170,2.99
+Bihar,Saran,5691,170,2.99
+Bihar,Sheikhpura,5691,170,2.99
+Bihar,Sheohar,5691,170,2.99
+Bihar,Sitamarhi,5691,170,2.99
+Bihar,Siwan,5691,170,2.99
+Bihar,Supaul,5691,170,2.99
+Bihar,Vaishali,5691,170,2.99
+Chandigarh,Chandigarh,5691,170,2.99
+Chhattisgarh,Bastar,5691,170,2.99
+Chhattisgarh,Bijapur,5691,170,2.99
+Bihar,Gaya,5691,170,2.99
+Chhattisgarh,Dantewada,5691,170,2.99
+Chhattisgarh,Dhamtari,5691,170,2.99
+Chhattisgarh,Durg,5691,170,2.99
+Chhattisgarh,Janjgir-Champa,5691,170,2.99
+Chhattisgarh,Jashpur,5691,170,2.99
+Chhattisgarh,Kabirdham,5691,170,2.99
+Chhattisgarh,Kanker,5691,170,2.99
+Chhattisgarh,Korba,5691,170,2.99
+Chhattisgarh,Korea,5691,170,2.99
+Chhattisgarh,Mahasamund,5691,170,2.99
+Chhattisgarh,Narayanpur,5691,170,2.99
+Chhattisgarh,Raigarh,5691,170,2.99
+Chhattisgarh,Raipur,5691,170,2.99
+Chhattisgarh,Rajnandgaon,5691,170,2.99
+Chhattisgarh,Surguja,5691,170,2.99
+Bihar,Patna,5691,170,2.99
+Delhi,East,5691,170,2.99
+Delhi,New Delhi,5691,170,2.99
+Delhi,North,5691,170,2.99
+Delhi,North East,5691,170,2.99
+Delhi,North West,5691,170,2.99
+Delhi,South,5691,170,2.99
+Delhi,South West,5691,170,2.99
+Delhi,West,5691,170,2.99
+Goa,North Goa,5691,170,2.99
+Goa,South Goa,5691,170,2.99
+Gujarat,Ahmadabad,5691,170,2.99
+Gujarat,Amreli,5691,170,2.99
+Gujarat,Anand,5691,170,2.99
+Gujarat,Banas Kantha,5691,170,2.99
+Gujarat,Bharuch,5691,170,2.99
+Chhattisgarh,Bilaspur,5691,170,2.99
+Gujarat,Dang,5691,170,2.99
+Gujarat,Dohad,5691,170,2.99
+Gujarat,Gandhinagar,5691,170,2.99
+Gujarat,Jamnagar,5691,170,2.99
+Gujarat,Junagadh,5691,170,2.99
+Gujarat,Kachchh,5691,170,2.99
+Gujarat,Kheda,5691,170,2.99
+Gujarat,Mahesana,5691,170,2.99
+Gujarat,Narmada,5691,170,2.99
+Gujarat,Navsari,5691,170,2.99
+Gujarat,Panch Mahals,5691,170,2.99
+Gujarat,Patan,5691,170,2.99
+Gujarat,Rajkot,5691,170,2.99
+Gujarat,Sabar Kantha,5691,170,2.99
+Delhi,Central,5691,170,2.99
+Gujarat,Surendranagar,5691,170,2.99
+Gujarat,Tapi,5691,170,2.99
+Gujarat,Vadodara,5691,170,2.99
+Gujarat,Valsad,5691,170,2.99
+Haryana,Ambala,5691,170,2.99
+Haryana,Bhiwani,5691,170,2.99
+Haryana,Faridabad,5691,170,2.99
+Haryana,Fatehabad,5691,170,2.99
+Haryana,Gurugram,5691,170,2.99
+Haryana,Hisar,5691,170,2.99
+Haryana,Jhajjar,5691,170,2.99
+Haryana,Jind,5691,170,2.99
+Haryana,Kaithal,5691,170,2.99
+Haryana,Karnal,5691,170,2.99
+Haryana,Kurukshetra,5691,170,2.99
+Gujarat,Bhavnagar,5691,170,2.99
+Haryana,Nuh,5691,170,2.99
+Haryana,Palwal,5691,170,2.99
+Haryana,Panchkula,5691,170,2.99
+Haryana,Panipat,5691,170,2.99
+Haryana,Rewari,5691,170,2.99
+Haryana,Rohtak,5691,170,2.99
+Haryana,Sirsa,5691,170,2.99
+Haryana,Sonipat,5691,170,2.99
+Haryana,Yamunanagar,5691,170,2.99
+Himachal Pradesh,Bilaspur,5691,170,2.99
+Himachal Pradesh,Chamba,5691,170,2.99
+Himachal Pradesh,Hamirpur,5691,170,2.99
+Himachal Pradesh,Kangra,5691,170,2.99
+Himachal Pradesh,Kinnaur,5691,170,2.99
+Himachal Pradesh,Kullu,5691,170,2.99
+Gujarat,Surat,5691,170,2.99
+Himachal Pradesh,Mandi,5691,170,2.99
+Himachal Pradesh,Shimla,5691,170,2.99
+Himachal Pradesh,Sirmaur,5691,170,2.99
+Himachal Pradesh,Solan,5691,170,2.99
+Himachal Pradesh,Una,5691,170,2.99
+Jammu And Kashmir,Anantnag,5691,170,2.99
+Jammu And Kashmir,Doda,5691,170,2.99
+Jammu And Kashmir,J&K District 1,5691,170,2.99
+Jammu And Kashmir,Jammu,5691,170,2.99
+Jammu And Kashmir,Kathua,5691,170,2.99
+Jammu And Kashmir,Udhampur,5691,170,2.99
+Jharkhand,Bokaro,5691,170,2.99
+Jharkhand,Chatra,5691,170,2.99
+Haryana,Mahendragarh,5691,170,2.99
+Jharkhand,Dhanbad,5691,170,2.99
+Jharkhand,Dumka,5691,170,2.99
+Jharkhand,East Singhbum,5691,170,2.99
+Jharkhand,Garhwa,5691,170,2.99
+Jharkhand,Giridih,5691,170,2.99
+Jharkhand,Godda,5691,170,2.99
+Jharkhand,Gumla,5691,170,2.99
+Jharkhand,Hazaribagh,5691,170,2.99
+Jharkhand,Jamtara,5691,170,2.99
+Jharkhand,Khunti,5691,170,2.99
+Jharkhand,Koderma,5691,170,2.99
+Jharkhand,Latehar,5691,170,2.99
+Jharkhand,Lohardaga,5691,170,2.99
+Jharkhand,Pakur,5691,170,2.99
+Jharkhand,Palamu,5691,170,2.99
+Himachal Pradesh,Lahul And Spiti,5691,170,2.99
+Jharkhand,Ranchi,5691,170,2.99
+Jharkhand,Sahebganj,5691,170,2.99
+Jharkhand,Saraikela Kharsawan,5691,170,2.99
+Jharkhand,Simdega,5691,170,2.99
+Jharkhand,West Singhbhum,5691,170,2.99
+Karnataka,Bagalkote,5691,170,2.99
+Karnataka,Ballari,5691,170,2.99
+Karnataka,Belagavi,5691,170,2.99
+Karnataka,Bengaluru Rural,5691,170,2.99
+Karnataka,Bengaluru Urban,5691,170,2.99
+Karnataka,Bidar,5691,170,2.99
+Karnataka,Chamarajanagara,5691,170,2.99
+Karnataka,Chikkaballapura,5691,170,2.99
+Karnataka,Chikkamagaluru,5691,170,2.99
+Karnataka,Chitradurga,5691,170,2.99
+Jharkhand,Deoghar,5691,170,2.99
+Karnataka,Davangere,5691,170,2.99
+Karnataka,Dharwad,5691,170,2.99
+Karnataka,Gadag,5691,170,2.99
+Karnataka,Hassan,5691,170,2.99
+Karnataka,Haveri,5691,170,2.99
+Karnataka,Kalaburagi,5691,170,2.99
+Karnataka,Kodagu,5691,170,2.99
+Karnataka,Kolar,5691,170,2.99
+Karnataka,Koppal,5691,170,2.99
+Karnataka,Mandya,5691,170,2.99
+Karnataka,Mysuru,5691,170,2.99
+Karnataka,Raichur,5691,170,2.99
+Karnataka,Ramanagara,5691,170,2.99
+Karnataka,Shivamogga,5691,170,2.99
+Karnataka,Tumakuru,5691,170,2.99
+Jharkhand,Ramgarh,5691,170,2.99
+Karnataka,Uttara Kannada,5691,170,2.99
+Karnataka,Vijayapura,5691,170,2.99
+Karnataka,Yadgir,5691,170,2.99
+Kerala,Alappuzha,5691,170,2.99
+Kerala,Ernakulam,5691,170,2.99
+Kerala,Idukki,5691,170,2.99
+Kerala,Kannur,5691,170,2.99
+Kerala,Kasaragod,5691,170,2.99
+Kerala,Kollam,5691,170,2.99
+Kerala,Kottayam,5691,170,2.99
+Kerala,Kozhikode,5691,170,2.99
+Kerala,Malappuram,5691,170,2.99
+Kerala,Palakkad,5691,170,2.99
+Kerala,Pathanamthitta,5691,170,2.99
+Kerala,Thiruvananthapuram,5691,170,2.99
+Karnataka,Dakshina Kannada,5691,170,2.99
+Kerala,Thrissur,5691,170,2.99
+Kerala,Wayanad,5691,170,2.99
+Ladakh,Kargil,5691,170,2.99
+Madhya Pradesh,Alirajpur,5691,170,2.99
+Madhya Pradesh,Anuppur,5691,170,2.99
+Madhya Pradesh,Ashoknagar,5691,170,2.99
+Madhya Pradesh,Balaghat,5691,170,2.99
+Madhya Pradesh,Barwani,5691,170,2.99
+Madhya Pradesh,Betul,5691,170,2.99
+Madhya Pradesh,Bhind,5691,170,2.99
+Madhya Pradesh,Bhopal,5691,170,2.99
+Madhya Pradesh,Burhanpur,5691,170,2.99
+Madhya Pradesh,Chhatarpur,5691,170,2.99
+Madhya Pradesh,Chhindwara,5691,170,2.99
+Karnataka,Udupi,5691,170,2.99
+Madhya Pradesh,Damoh,5691,170,2.99
+Madhya Pradesh,Datia,5691,170,2.99
+Madhya Pradesh,Dewas,5691,170,2.99
+Madhya Pradesh,Dhar,5691,170,2.99
+Madhya Pradesh,Dindori,5691,170,2.99
+Madhya Pradesh,East Nimar,5691,170,2.99
+Madhya Pradesh,Guna,5691,170,2.99
+Madhya Pradesh,Gwalior,5691,170,2.99
+Madhya Pradesh,Harda,5691,170,2.99
+Madhya Pradesh,Indore,5691,170,2.99
+Madhya Pradesh,Jabalpur,5691,170,2.99
+Madhya Pradesh,Jhabua,5691,170,2.99
+Madhya Pradesh,Katni,5691,170,2.99
+Madhya Pradesh,Khargone,5691,170,2.99
+Madhya Pradesh,Mandla,5691,170,2.99
+Madhya Pradesh,Mandsaur,5691,170,2.99
+Madhya Pradesh,Morena,5691,170,2.99
+Madhya Pradesh,Narmadapuram,5691,170,2.99
+Madhya Pradesh,Narsinghpur,5691,170,2.99
+Madhya Pradesh,Neemuch,5691,170,2.99
+Madhya Pradesh,Panna,5691,170,2.99
+Madhya Pradesh,Raisen,5691,170,2.99
+Madhya Pradesh,Rajgarh,5691,170,2.99
+Madhya Pradesh,Ratlam,5691,170,2.99
+Madhya Pradesh,Rewa,5691,170,2.99
+Madhya Pradesh,Sagar,5691,170,2.99
+Madhya Pradesh,Satna,5691,170,2.99
+Madhya Pradesh,Sehore,5691,170,2.99
+Madhya Pradesh,Seoni,5691,170,2.99
+Madhya Pradesh,Shahdol,5691,170,2.99
+Madhya Pradesh,Shajapur,5691,170,2.99
+Madhya Pradesh,Sheopur,5691,170,2.99
+Madhya Pradesh,Shivpuri,5691,170,2.99
+Madhya Pradesh,Sidhi,5691,170,2.99
+Madhya Pradesh,Singrauli,5691,170,2.99
+Madhya Pradesh,Tikamgarh,5691,170,2.99
+Madhya Pradesh,Ujjain,5691,170,2.99
+Madhya Pradesh,Umaria,5691,170,2.99
+Madhya Pradesh,Vidisha,5691,170,2.99
+Maharashtra,Ahmednagar,5691,170,2.99
+Maharashtra,Akola,5691,170,2.99
+Maharashtra,Amravati,5691,170,2.99
+Maharashtra,Aurangabad,5691,170,2.99
+Maharashtra,Beed,5691,170,2.99
+Maharashtra,Bhandara,5691,170,2.99
+Maharashtra,Buldhana,5691,170,2.99
+Maharashtra,Chandrapur,5691,170,2.99
+Maharashtra,Dhule,5691,170,2.99
+Maharashtra,Gadchiroli,5691,170,2.99
+Maharashtra,Gondia,5691,170,2.99
+Maharashtra,Hingoli,5691,170,2.99
+Maharashtra,Jalgaon,5691,170,2.99
+Maharashtra,Jalna,5691,170,2.99
+Maharashtra,Kolhapur,5691,170,2.99
+Maharashtra,Latur,5691,170,2.99
+Maharashtra,Mumbai,5691,170,2.99
+Maharashtra,Mumbai Suburban,5691,170,2.99
+Maharashtra,Nagpur,5691,170,2.99
+Maharashtra,Nanded,5691,170,2.99
+Maharashtra,Nandurbar,5691,170,2.99
+Maharashtra,Nashik,5691,170,2.99
+Maharashtra,Osmanabad,5691,170,2.99
+Maharashtra,Parbhani,5691,170,2.99
+Maharashtra,Pune,5691,170,2.99
+Maharashtra,Raigad,5691,170,2.99
+Maharashtra,Ratnagiri,5691,170,2.99
+Maharashtra,Sangli,5691,170,2.99
+Maharashtra,Satara,5691,170,2.99
+Maharashtra,Sindhudurg,5691,170,2.99
+Maharashtra,Solapur,5691,170,2.99
+Maharashtra,Thane,5691,170,2.99
+Maharashtra,Wardha,5691,170,2.99
+Maharashtra,Washim,5691,170,2.99
+Maharashtra,Yavatmal,5691,170,2.99
+Manipur,Bishnupur,5691,170,2.99
+Manipur,Chandel,5691,170,2.99
+Manipur,Churachandpur,5691,170,2.99
+Manipur,Imphal East,5691,170,2.99
+Manipur,Imphal West,5691,170,2.99
+Manipur,Senapati,5691,170,2.99
+Manipur,Tamenglong,5691,170,2.99
+Manipur,Thoubal,5691,170,2.99
+Manipur,Ukhrul,5691,170,2.99
+Meghalaya,East Garo Hills,5691,170,2.99
+Meghalaya,East Jaintia Hills,5691,170,2.99
+Meghalaya,East Khasi Hills,5691,170,2.99
+Meghalaya,Ri Bhoi,5691,170,2.99
+Meghalaya,South Garo Hills,5691,170,2.99
+Meghalaya,West Garo Hills,5691,170,2.99
+Meghalaya,West Khasi Hills,5691,170,2.99
+Mizoram,Aizawl,5691,170,2.99
+Mizoram,Champhai,5691,170,2.99
+Mizoram,Kolasib,5691,170,2.99
+Mizoram,Lawngtlai,5691,170,2.99
+Mizoram,Lunglei,5691,170,2.99
+Mizoram,Mamit,5691,170,2.99
+Mizoram,Saiha,5691,170,2.99
+Mizoram,Serchhip,5691,170,2.99
+Nagaland,Dimapur,5691,170,2.99
+Nagaland,Kiphire,5691,170,2.99
+Nagaland,Kohima,5691,170,2.99
+Nagaland,Longleng,5691,170,2.99
+Nagaland,Mokokchung,5691,170,2.99
+Nagaland,Mon,5691,170,2.99
+Nagaland,Peren,5691,170,2.99
+Nagaland,Phek,5691,170,2.99
+Nagaland,Tuensang,5691,170,2.99
+Nagaland,Wokha,5691,170,2.99
+Nagaland,Zunheboto,5691,170,2.99
+Odisha,Anugul,5691,170,2.99
+Odisha,Balangir,5691,170,2.99
+Odisha,Baleshwar,5691,170,2.99
+Odisha,Bargarh,5691,170,2.99
+Odisha,Bhadrak,5691,170,2.99
+Odisha,Boudh,5691,170,2.99
+Odisha,Cuttack,5691,170,2.99
+Odisha,Deogarh,5691,170,2.99
+Odisha,Dhenkanal,5691,170,2.99
+Odisha,Gajapati,5691,170,2.99
+Odisha,Ganjam,5691,170,2.99
+Odisha,Jagatsinghapur,5691,170,2.99
+Odisha,Jajapur,5691,170,2.99
+Odisha,Jharsuguda,5691,170,2.99
+Odisha,Kalahandi,5691,170,2.99
+Odisha,Kandhamal,5691,170,2.99
+Odisha,Kendrapara,5691,170,2.99
+Odisha,Kendujhar,5691,170,2.99
+Odisha,Khordha,5691,170,2.99
+Odisha,Koraput,5691,170,2.99
+Odisha,Malkangiri,5691,170,2.99
+Odisha,Mayurbhanj,5691,170,2.99
+Odisha,Nabarangpur,5691,170,2.99
+Odisha,Nayagarh,5691,170,2.99
+Odisha,Nuapada,5691,170,2.99
+Odisha,Puri,5691,170,2.99
+Odisha,Rayagada,5691,170,2.99
+Odisha,Sambalpur,5691,170,2.99
+Odisha,Sonepur,5691,170,2.99
+Odisha,Sundargarh,5691,170,2.99
+Puducherry,Karaikal,5691,170,2.99
+Puducherry,Mahe,5691,170,2.99
+Puducherry,Pondicherry,5691,170,2.99
+Puducherry,Yanam,5691,170,2.99
+Punjab,Amritsar,5691,170,2.99
+Punjab,Barnala,5691,170,2.99
+Punjab,Bathinda,5691,170,2.99
+Punjab,Faridkot,5691,170,2.99
+Punjab,Fatehgarh Sahib,5691,170,2.99
+Punjab,Ferozepur,5691,170,2.99
+Punjab,Gurdaspur,5691,170,2.99
+Punjab,Hoshiarpur,5691,170,2.99
+Punjab,Jalandhar,5691,170,2.99
+Punjab,Kapurthala,5691,170,2.99
+Punjab,Ludhiana,5691,170,2.99
+Punjab,Mansa,5691,170,2.99
+Punjab,Moga,5691,170,2.99
+Punjab,Patiala,5691,170,2.99
+Punjab,Rupnagar,5691,170,2.99
+Punjab,S.A.S Nagar,5691,170,2.99
+Punjab,Sangrur,5691,170,2.99
+Punjab,Shahid Bhagat Singh Nagar,5691,170,2.99
+Punjab,Sri Muktsar Sahib,5691,170,2.99
+Punjab,Tarn Taran,5691,170,2.99
+Rajasthan,Ajmer,5691,170,2.99
+Rajasthan,Alwar,5691,170,2.99
+Rajasthan,Banswara,5691,170,2.99
+Rajasthan,Baran,5691,170,2.99
+Rajasthan,Barmer,5691,170,2.99
+Rajasthan,Bharatpur,5691,170,2.99
+Rajasthan,Bhilwara,5691,170,2.99
+Rajasthan,Bikaner,5691,170,2.99
+Rajasthan,Bundi,5691,170,2.99
+Rajasthan,Chittorgarh,5691,170,2.99
+Rajasthan,Churu,5691,170,2.99
+Rajasthan,Dausa,5691,170,2.99
+Rajasthan,Dholpur,5691,170,2.99
+Rajasthan,Dungarpur,5691,170,2.99
+Rajasthan,Ganganagar,5691,170,2.99
+Rajasthan,Hanumangarh,5691,170,2.99
+Rajasthan,Jaipur,5691,170,2.99
+Rajasthan,Jaisalmer,5691,170,2.99
+Rajasthan,Jalore,5691,170,2.99
+Rajasthan,Jhalawar,5691,170,2.99
+Rajasthan,Jhunjhunu,5691,170,2.99
+Rajasthan,Jodhpur,5691,170,2.99
+Rajasthan,Karauli,5691,170,2.99
+Rajasthan,Kota,5691,170,2.99
+Rajasthan,Nagaur,5691,170,2.99
+Rajasthan,Pali,5691,170,2.99
+Rajasthan,Pratapgarh,5691,170,2.99
+Rajasthan,Rajsamand,5691,170,2.99
+Rajasthan,Sawai Madhopur,5691,170,2.99
+Rajasthan,Sikar,5691,170,2.99
+Rajasthan,Sirohi,5691,170,2.99
+Rajasthan,Tonk,5691,170,2.99
+Rajasthan,Udaipur,5691,170,2.99
+Sikkim,Gangtok,5691,170,2.99
+Sikkim,Gyalshing,5691,170,2.99
+Sikkim,Mangan,5691,170,2.99
+Sikkim,Namchi,5691,170,2.99
+Tamil Nadu,Ariyalur,5691,170,2.99
+Tamil Nadu,Chennai,5691,170,2.99
+Tamil Nadu,Coimbatore,5691,170,2.99
+Tamil Nadu,Cuddalore,5691,170,2.99
+Tamil Nadu,Dharmapuri,5691,170,2.99
+Tamil Nadu,Dindigul,5691,170,2.99
+Tamil Nadu,Erode,5691,170,2.99
+Tamil Nadu,Kanchipuram,5691,170,2.99
+Tamil Nadu,Kanniyakumari,5691,170,2.99
+Tamil Nadu,Karur,5691,170,2.99
+Tamil Nadu,Krishnagiri,5691,170,2.99
+Tamil Nadu,Madurai,5691,170,2.99
+Tamil Nadu,Nagapattinam,5691,170,2.99
+Tamil Nadu,Namakkal,5691,170,2.99
+Tamil Nadu,Perambalur,5691,170,2.99
+Tamil Nadu,Pudukkottai,5691,170,2.99
+Tamil Nadu,Ramanathapuram,5691,170,2.99
+Tamil Nadu,Salem,5691,170,2.99
+Tamil Nadu,Sivaganga,5691,170,2.99
+Tamil Nadu,Thanjavur,5691,170,2.99
+Tamil Nadu,The Nilgiris,5691,170,2.99
+Tamil Nadu,Theni,5691,170,2.99
+Tamil Nadu,Thiruvallur,5691,170,2.99
+Tamil Nadu,Thiruvarur,5691,170,2.99
+Tamil Nadu,Tiruchirappalli,5691,170,2.99
+Tamil Nadu,Tirunelveli,5691,170,2.99
+Tamil Nadu,Tiruppur,5691,170,2.99
+Tamil Nadu,Tiruvannamalai,5691,170,2.99
+Tamil Nadu,Tuticorin,5691,170,2.99
+Tamil Nadu,Vellore,5691,170,2.99
+Tamil Nadu,Villupuram,5691,170,2.99
+Tamil Nadu,Virudhunagar,5691,170,2.99
+Telangana,Adilabad,5691,170,2.99
+Telangana,Hyderabad,5691,170,2.99
+Telangana,Karimnagar,5691,170,2.99
+Telangana,Khammam,5691,170,2.99
+Telangana,Mahabubnagar,5691,170,2.99
+Telangana,Medak,5691,170,2.99
+Telangana,Nalgonda,5691,170,2.99
+Telangana,Nizamabad,5691,170,2.99
+Telangana,Ranga Reddy,5691,170,2.99
+Telangana,Warangal,5691,170,2.99
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,5691,170,2.99
+The Dadra And Nagar Haveli And Daman And Diu,Daman,5691,170,2.99
+The Dadra And Nagar Haveli And Daman And Diu,Diu,5691,170,2.99
+Tripura,Dhalai,5691,170,2.99
+Tripura,North Tripura,5691,170,2.99
+Tripura,South Tripura,5691,170,2.99
+Tripura,West Tripura,5691,170,2.99
+Uttar Pradesh,Agra,5691,170,2.99
+Uttar Pradesh,Aligarh,5691,170,2.99
+Uttar Pradesh,Ambedkar Nagar,5691,170,2.99
+Uttar Pradesh,Amroha,5691,170,2.99
+Uttar Pradesh,Auraiya,5691,170,2.99
+Uttar Pradesh,Ayodhya,5691,170,2.99
+Uttar Pradesh,Azamgarh,5691,170,2.99
+Uttar Pradesh,Baghpat,5691,170,2.99
+Uttar Pradesh,Bahraich,5691,170,2.99
+Uttar Pradesh,Ballia,5691,170,2.99
+Uttar Pradesh,Balrampur,5691,170,2.99
+Uttar Pradesh,Banda,5691,170,2.99
+Uttar Pradesh,Barabanki,5691,170,2.99
+Uttar Pradesh,Bareilly,5691,170,2.99
+Uttar Pradesh,Basti,5691,170,2.99
+Uttar Pradesh,Bhadohi,5691,170,2.99
+Uttar Pradesh,Bijnor,5691,170,2.99
+Uttar Pradesh,Budaun,5691,170,2.99
+Uttar Pradesh,Bulandshahr,5691,170,2.99
+Uttar Pradesh,Chandauli,5691,170,2.99
+Uttar Pradesh,Chitrakoot,5691,170,2.99
+Uttar Pradesh,Deoria,5691,170,2.99
+Uttar Pradesh,Etah,5691,170,2.99
+Uttar Pradesh,Etawah,5691,170,2.99
+Uttar Pradesh,Farrukhabad,5691,170,2.99
+Uttar Pradesh,Fatehpur,5691,170,2.99
+Uttar Pradesh,Firozabad,5691,170,2.99
+Uttar Pradesh,Gautam Buddha Nagar,5691,170,2.99
+Uttar Pradesh,Ghaziabad,5691,170,2.99
+Uttar Pradesh,Ghazipur,5691,170,2.99
+Uttar Pradesh,Gonda,5691,170,2.99
+Uttar Pradesh,Gorakhpur,5691,170,2.99
+Uttar Pradesh,Hamirpur,5691,170,2.99
+Uttar Pradesh,Hardoi,5691,170,2.99
+Uttar Pradesh,Hathras,5691,170,2.99
+Uttar Pradesh,Jalaun,5691,170,2.99
+Uttar Pradesh,Jaunpur,5691,170,2.99
+Uttar Pradesh,Jhansi,5691,170,2.99
+Uttar Pradesh,Kannauj,5691,170,2.99
+Uttar Pradesh,Kanpur Dehat,5691,170,2.99
+Uttar Pradesh,Kanpur Nagar,5691,170,2.99
+Uttar Pradesh,Kasganj,5691,170,2.99
+Uttar Pradesh,Kaushambi,5691,170,2.99
+Uttar Pradesh,Kheri,5691,170,2.99
+Uttar Pradesh,Kushi Nagar,5691,170,2.99
+Uttar Pradesh,Lalitpur,5691,170,2.99
+Uttar Pradesh,Lucknow,5691,170,2.99
+Uttar Pradesh,Maharajganj,5691,170,2.99
+Uttar Pradesh,Mahoba,5691,170,2.99
+Uttar Pradesh,Mainpuri,5691,170,2.99
+Uttar Pradesh,Mathura,5691,170,2.99
+Uttar Pradesh,Mau,5691,170,2.99
+Uttar Pradesh,Meerut,5691,170,2.99
+Uttar Pradesh,Mirzapur,5691,170,2.99
+Uttar Pradesh,Moradabad,5691,170,2.99
+Uttar Pradesh,Muzaffarnagar,5691,170,2.99
+Uttar Pradesh,Pilibhit,5691,170,2.99
+Uttar Pradesh,Pratapgarh,5691,170,2.99
+Uttar Pradesh,Prayagraj,5691,170,2.99
+Uttar Pradesh,Rae Bareli,5691,170,2.99
+Uttar Pradesh,Rampur,5691,170,2.99
+Uttar Pradesh,Saharanpur,5691,170,2.99
+Uttar Pradesh,Sant Kabeer Nagar,5691,170,2.99
+Uttar Pradesh,Shahjahanpur,5691,170,2.99
+Uttar Pradesh,Shravasti,5691,170,2.99
+Uttar Pradesh,Siddharth Nagar,5691,170,2.99
+Uttar Pradesh,Sitapur,5691,170,2.99
+Uttar Pradesh,Sonbhadra,5691,170,2.99
+Uttar Pradesh,Sultanpur,5691,170,2.99
+Uttar Pradesh,Unnao,5691,170,2.99
+Uttar Pradesh,Varanasi,5691,170,2.99
+Uttarakhand,Bageshwar,5691,170,2.99
+Uttarakhand,Chamoli,5691,170,2.99
+Uttarakhand,Champawat,5691,170,2.99
+Uttarakhand,Dehradun,5691,170,2.99
+Uttarakhand,Haridwar,5691,170,2.99
+Uttarakhand,Nainital,5691,170,2.99
+Uttarakhand,Pauri Garhwal,5691,170,2.99
+Uttarakhand,Pithoragarh,5691,170,2.99
+Uttarakhand,Rudra Prayag,5691,170,2.99
+Uttarakhand,Tehri Garhwal,5691,170,2.99
+Uttarakhand,Udam Singh Nagar,5691,170,2.99
+Uttarakhand,Uttar Kashi,5691,170,2.99
+West Bengal,24 Paraganas North,5691,170,2.99
+West Bengal,24 Paraganas South,5691,170,2.99
+West Bengal,Bankura,5691,170,2.99
+Andhra Pradesh,Anantapur,5691,170,2.99
+West Bengal,Birbhum,5691,170,2.99
+West Bengal,Coochbehar,5691,170,2.99
+West Bengal,Darjeeling,5691,170,2.99
+West Bengal,Dinajpur Dakshin,5691,170,2.99
+West Bengal,Dinajpur Uttar,5691,170,2.99
+West Bengal,Hooghly,5691,170,2.99
+West Bengal,Howrah,5691,170,2.99
+West Bengal,Jalpaiguri,5691,170,2.99
+West Bengal,Kolkata,5691,170,2.99
+West Bengal,Maldah,5691,170,2.99
+West Bengal,Medinipur East,5691,170,2.99
+West Bengal,Medinipur West,5691,170,2.99
+West Bengal,Murshidabad,5691,170,2.99
+West Bengal,Nadia,5691,170,2.99
+West Bengal,Paschim Bardhaman,5691,170,2.99
+West Bengal,Purulia,5691,170,2.99
+Ladakh,Leh Ladakh,9142,170,1.86
